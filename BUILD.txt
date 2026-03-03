@@ -1,4 +1,4 @@
-Updated (UTC): 2026-03-03T13:21:38Z
-Total exported: 1141
-Offers written: 1140
+Updated (UTC): 2026-03-03T14:18:34Z
+Total exported: 5
+Offers written: 5
 Filter: display_in_showcase=1
