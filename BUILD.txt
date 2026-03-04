@@ -1,5 +1,6 @@
-Updated (UTC): 2026-03-04T12:26:44Z
-Total exported: 60
-Offers written: 59
-Filter: display_in_showcase=1
+Updated (local): 2026-03-04 14:23:52
 KEEPIN_MAX_ITEMS=60
+Categories: 44
+Offers: 59
+Format: yml_catalog/shop/categories+offers
+Variants: offer attr group_id=<parent_article>, main offer id=<parent_article>
