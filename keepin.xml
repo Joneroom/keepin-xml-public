@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-05 01:01">
+<yml_catalog date="2026-03-05 06:35">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -10575,7 +10575,7 @@
       </offer>
       <offer id="CHDHX-121-RW" available="true">
         <url>https://airunit.com.ua/kamera-hero12-black-chdhx-121-rw/</url>
-        <price>21999</price>
+        <price>19999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/46/kamera-hero12-black-chdhx-121-rw-90712015911794_+17deaa6944.png</picture>
@@ -10602,7 +10602,7 @@
       </offer>
       <offer id="CHDFB-131-EU" available="true">
         <url>https://airunit.com.ua/kamera-gopro-hero13-black-creator-edition-chdfb-131-eu/</url>
-        <price>35999</price>
+        <price>33999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/24/kamera-gopro-hero13-black-creator-edition-chdfb-131-eu-52482669456530_+9f65c4eb31.png</picture>
@@ -10611,7 +10611,7 @@
       </offer>
       <offer id="CHDHF-131-EU" available="true">
         <url>https://airunit.com.ua/kamera-gopro-hero-chdhf-131-eu/</url>
-        <price>12999</price>
+        <price>11199</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/25/kamera-gopro-hero-chdhf-131-eu-24090684360573_+276739cb33.png</picture>
@@ -10620,7 +10620,7 @@
       </offer>
       <offer id="CHDHX-131-RW" available="true">
         <url>https://airunit.com.ua/kamera-gopro-hero13-black-chdhx-131-rw/</url>
-        <price>24999</price>
+        <price>21999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/26/kamera-gopro-hero13-black-chdhx-131-rw-64733359588541_+6d9454bce6.png</picture>
@@ -10629,7 +10629,7 @@
       </offer>
       <offer id="CHDHZ-203-RW" available="true">
         <url>https://airunit.com.ua/kamera-gopro-max-2-chdhz-203-rw/</url>
-        <price>21999</price>
+        <price>19999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/27/kamera-gopro-max-2-chdhz-203-rw-69151709716352_+8b19e50292.png</picture>
@@ -10638,7 +10638,7 @@
       </offer>
       <offer id="CHDRB-131-RW" available="true">
         <url>https://airunit.com.ua/kamera-gopro-hero13-black-enduro-sd-card-handler-floating-chdrb-131-rw/</url>
-        <price>26999</price>
+        <price>24499</price>
         <currencyId>UAH</currencyId>
         <categoryId>1954607585</categoryId>
         <picture>https://airunit.com.ua/content/images/28/kamera-gopro-hero13-black-enduro-sd-card-handler-floating-chdrb-131-rw-74438367182804_+c914e49021.png</picture>
