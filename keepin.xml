@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-06 06:32">
+<yml_catalog date="2026-03-06 12:27">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -16,7 +16,6 @@
       <category id="1475910886">Дрони FPV</category>
       <category id="95021005">Електроніка</category>
       <category id="1128051469">Зарядні станції</category>
-      <category id="827851110">Ножі Victorinox</category>
       <category id="1861401118">ПНБ та Тепловізори</category>
       <category id="920614111">Повербанки &lt;br&gt; (Power Bank)</category>
       <category id="1098759063">Підводні дрони&lt;br&gt; Deep Trekker</category>
@@ -52,8 +51,6 @@
       <category id="1334243801" parentId="1128051469">Аксесуари</category>
       <category id="827414601" parentId="1128051469">Портативне освітлення</category>
       <category id="999597365" parentId="1128051469">Сонячні панелі</category>
-      <category id="1383174828" parentId="827851110">Аксесуари</category>
-      <category id="992922531" parentId="827851110">Складані ножі Victorinox</category>
       <category id="1677186765" parentId="1861401118">Аксесуари</category>
       <category id="631596751" parentId="1861401118">Оптичні приціли</category>
       <category id="36845371" parentId="1861401118">Прилади нічного бачення</category>
@@ -686,13 +683,13 @@
         <vendorCode>ZMR330-EU</vendorCode>
         <name>Зарядна станція EcoFlow DELTA 2</name>
       </offer>
-      <offer id="CP.EN.00000501.01" available="true">
+      <offer id="CP.MA.00000501.01" available="true">
         <url>https://airunit.com.ua/propelery-dji-mavic-3-low-noise-propellers-cwccw/</url>
-        <price>26.7</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>1028074899</categoryId>
         <picture>https://airunit.com.ua/content/images/5/propelery-dji-mavic-3-low-noise-propellers-cwccw-74279454116373_+77ed7705cc.jpg</picture>
-        <vendorCode>CP.EN.00000501.01</vendorCode>
+        <vendorCode>CP.MA.00000501.01</vendorCode>
         <name>Пропелери DJI Mavic 3 Low-Noise (CW+CCW)</name>
       </offer>
       <offer id="CP.EN.00000425.01" available="true">
@@ -2400,150 +2397,6 @@
         <picture>https://airunit.com.ua/content/images/24/baseus-bipow-30000-mah-90850965637586_+2b04a82e41.png</picture>
         <vendorCode>PPDML-K01</vendorCode>
         <name>Baseus Bipow 30000 mAh</name>
-      </offer>
-      <offer id="1.3603.2_T0308u" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-spartan-ukraine/</url>
-        <price>1475</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/25/nizh-victorinox-spartan-ukraine-73087502267566_+06bd0ea236.png</picture>
-        <vendorCode>1.3603.2_T0308u</vendorCode>
-        <name>Ніж Victorinox Spartan Ukraine Тризуб ОУН</name>
-      </offer>
-      <offer id="1.3603.2_T0016u" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-spartan-ukraine-tryzub/</url>
-        <price>1475</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/26/nizh-victorinox-spartan-ukraine-tryzub-15270440174476_+1d232e6a08.png</picture>
-        <vendorCode>1.3603.2_T0016u</vendorCode>
-        <name>Ніж Victorinox Spartan Ukraine Тризуб</name>
-      </offer>
-      <offer id="0.6223.G" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-classic-sd-classic-colors-style-icon/</url>
-        <price>1296</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/27/nizh-victorinox-classic-sd-classic-colors-style-icon-45716053764249_+8c50f57b69.png</picture>
-        <vendorCode>0.6223.G</vendorCode>
-        <name>Ніж Victorinox Classic SD Classic Colors Style Icon</name>
-      </offer>
-      <offer id="0.3803" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-sportsman/</url>
-        <price>1408</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/28/nizh-victorinox-sportsman-76610308921424_+cdf382ddf8.png</picture>
-        <vendorCode>0.3803</vendorCode>
-        <name>Ніж Victorinox Sportsman</name>
-      </offer>
-      <offer id="Vx13703.3_W1011u" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-climber-army-emblema-zsu/</url>
-        <price>2037</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/29/nizh-victorinox-climber-army-emblema-zsu-84149629829735_+6a2fdaa4d2.png</picture>
-        <vendorCode>Vx13703.3_W1011u</vendorCode>
-        <name>Ніж Victorinox Climber Army Емблема ЗСУ</name>
-      </offer>
-      <offer id="1.3713" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-huntsman/</url>
-        <price>2196</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/30/nizh-victorinox-huntsman-73875150805711_+f18f7a6b3b.png</picture>
-        <vendorCode>1.3713</vendorCode>
-        <name>Ніж Victorinox Huntsman</name>
-      </offer>
-      <offer id="1.3603.94" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-spartan-camouflage/</url>
-        <price>1633</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/31/nizh-victorinox-spartan-camouflage-55538214442552_+4f1c4a69a0.png</picture>
-        <vendorCode>1.3603.94</vendorCode>
-        <name>Ніж Victorinox Spartan Camouflage</name>
-      </offer>
-      <offer id="1.3713.942" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-huntsman/1031/</url>
-        <price>2421</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/32/nizh-victorinox-huntsman1031-19767762421226_+cfbc5644d6.png</picture>
-        <vendorCode>1.3713.942</vendorCode>
-        <name>Ніж Victorinox Huntsman Navy Camouflage</name>
-      </offer>
-      <offer id="1.3603.31P" available="true">
-        <url>https://airunit.com.ua/nizh-victorinox-spartan-onyx-black/</url>
-        <price>5575</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>992922531</categoryId>
-        <picture>https://airunit.com.ua/content/images/33/nizh-victorinox-spartan-onyx-black-80049429939170_+a02a14d3c6.png</picture>
-        <vendorCode>1.3603.31P</vendorCode>
-        <name>Ніж Victorinox Spartan Onyx Black</name>
-      </offer>
-      <offer id="40520.3" available="true">
-        <url>https://airunit.com.ua/chokhol-victorinox-leather-belt-pouch/</url>
-        <price>1296</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/43/chokhol-victorinox-leather-belt-pouch-14301575478089_+2958b4390d.png</picture>
-        <vendorCode>40520.3</vendorCode>
-        <name>Чохол Victorinox Leather Belt Pouch</name>
-      </offer>
-      <offer id="40520.31" available="true">
-        <url>https://airunit.com.ua/chokhol-victorinox-leather-belt-pouch-with-belt-clip/</url>
-        <price>1522</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/44/chokhol-victorinox-leather-belt-pouch-with-belt-clip-68868947744111_+3e7d2b76b5.png</picture>
-        <vendorCode>40520.31</vendorCode>
-        <name>Victorinox Leather Belt Pouch with Belt Clip</name>
-      </offer>
-      <offer id="4.0543.3" available="true">
-        <url>https://airunit.com.ua/chokhol-neilonovyi-victorinox-nylon-belt-pouch/</url>
-        <price>1070</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/45/chokhol-neilonovyi-victorinox-nylon-belt-pouch-56975990518591_+f797884b3e.png</picture>
-        <vendorCode>4.0543.3</vendorCode>
-        <name>Чохол нейлоновий Victorinox Nylon Belt Pouch</name>
-      </offer>
-      <offer id="41824" available="true">
-        <url>https://airunit.com.ua/temliak-victorinox-lanyard/</url>
-        <price>85</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/46/temliak-victorinox-lanyard-70617838153561_+605d805c22.png</picture>
-        <vendorCode>41824</vendorCode>
-        <name>Темляк Victorinox Lanyard</name>
-      </offer>
-      <offer id="41858" available="true">
-        <url>https://airunit.com.ua/pidviska-victorinox-na-remin-multiclip-karabin/</url>
-        <price>732</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/47/pidviska-victorinox-na-remin-multiclip-karabin-70711043289179_+a9b43436ce.png</picture>
-        <vendorCode>41858</vendorCode>
-        <name>Підвіска Victorinox на ремінь Multiclip карабін</name>
-      </offer>
-      <offer id="41859" available="true">
-        <url>https://airunit.com.ua/pidviska-victorinox-na-remin-multiclip-lantsiuzhok-z-karabinom/</url>
-        <price>732</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/48/pidviska-victorinox-na-remin-multiclip-lantsiuzhok-z-karabinom-42609983554767_+dab02c623f.png</picture>
-        <vendorCode>41859</vendorCode>
-        <name>Підвіска Victorinox на ремінь Multiclip ланцюжок з карабіном</name>
-      </offer>
-      <offer id="41860" available="true">
-        <url>https://airunit.com.ua/pidviska-victorinox-na-remin-multiclip-korot.-lantsiuzhok-z-karabinom/</url>
-        <price>845</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>1383174828</categoryId>
-        <picture>https://airunit.com.ua/content/images/49/pidviska-victorinox-na-remin-multiclip-korot.-lantsiuzhok-z-karabinom-85041526840340_+a9369c2577.png</picture>
-        <vendorCode>41860</vendorCode>
-        <name>Підвіска Victorinox на ремінь Multiclip довгий ланцюжок</name>
       </offer>
       <offer id="EF-PKPowerKit" available="true">
         <url>https://airunit.com.ua/monitor-ecoflow-power-kit/</url>
