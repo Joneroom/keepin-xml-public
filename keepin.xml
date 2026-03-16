@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-16 09:12">
+<yml_catalog date="2026-03-16 12:40">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -7865,7 +7865,7 @@
       </offer>
       <offer id="HDTB510EK3AA" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-toshiba-1-tb-br-hdtb510ek3aa/</url>
-        <price>3890.21</price>
+        <price>3940.01</price>
         <currencyId>UAH</currencyId>
         <categoryId>1682463661</categoryId>
         <picture>https://airunit.com.ua/content/images/33/15145220955887_+beef691e8e.png</picture>
@@ -7874,7 +7874,7 @@
       </offer>
       <offer id="STJL1000400" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-seagate-1-tb-br-stjl1000400/</url>
-        <price>3763.49</price>
+        <price>4067.53</price>
         <currencyId>UAH</currencyId>
         <categoryId>1473360519</categoryId>
         <picture>https://airunit.com.ua/content/images/34/51535190186668_+8e1da70538.jpg</picture>
@@ -7883,7 +7883,7 @@
       </offer>
       <offer id="WDBUZG0010BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-1-tb-br-wdbuzg0010bbk-wesn/</url>
-        <price>4395.21</price>
+        <price>4423.2</price>
         <currencyId>UAH</currencyId>
         <categoryId>582733047</categoryId>
         <picture>https://airunit.com.ua/content/images/35/78042464172849_+5689aa16f8.jpg</picture>
@@ -7892,7 +7892,7 @@
       </offer>
       <offer id="STJL2000400" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-seagate-2-tb-br-stjl2000400/</url>
-        <price>4748.64</price>
+        <price>4778.89</price>
         <currencyId>UAH</currencyId>
         <categoryId>1473360519</categoryId>
         <picture>https://airunit.com.ua/content/images/36/24055513144534_+61fe6feb3c.jpg</picture>
@@ -7910,7 +7910,7 @@
       </offer>
       <offer id="WDBU6Y0020BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-2-tb-br-wdbu6y0020bbk-wesn/</url>
-        <price>5557.34</price>
+        <price>5592.77</price>
         <currencyId>UAH</currencyId>
         <categoryId>582733047</categoryId>
         <picture>https://airunit.com.ua/content/images/39/91764503203833_+6a745b1614.jpg</picture>
@@ -7919,7 +7919,7 @@
       </offer>
       <offer id="WDBYVG0020BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-2-tb-br-wdbyvg0020bbk-wesn/</url>
-        <price>5405.79</price>
+        <price>5440.25</price>
         <currencyId>UAH</currencyId>
         <categoryId>582733047</categoryId>
         <picture>https://airunit.com.ua/content/images/40/92683732954012_+4804a4ba4a.jpg</picture>
@@ -7937,7 +7937,7 @@
       </offer>
       <offer id="STJL5000400" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-seagate-5-tb-br-stjl5000400/</url>
-        <price>9043.2</price>
+        <price>9100.84</price>
         <currencyId>UAH</currencyId>
         <categoryId>1473360519</categoryId>
         <picture>https://airunit.com.ua/content/images/42/89475987184731_+74f5e59eab.jpg</picture>
@@ -7946,7 +7946,7 @@
       </offer>
       <offer id="WDBU6Y0040BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-4-tb-br-wdbu6y0040bbk-wesn/</url>
-        <price>7123.24</price>
+        <price>7168.66</price>
         <currencyId>UAH</currencyId>
         <categoryId>582733047</categoryId>
         <picture>https://airunit.com.ua/content/images/44/39287131391715_+02f3f360d8.png</picture>
@@ -7955,7 +7955,7 @@
       </offer>
       <offer id="STJL4000400" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-seagate-4-tb-br-stjl4000400/</url>
-        <price>7830.73</price>
+        <price>7880.64</price>
         <currencyId>UAH</currencyId>
         <categoryId>1473360519</categoryId>
         <picture>https://airunit.com.ua/content/images/45/99413075973681_+2403ced7ed.jpg</picture>
@@ -7982,7 +7982,7 @@
       </offer>
       <offer id="WDBPKJ0050BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-5-tb-br-wdbpkj0050bbk-wesn/</url>
-        <price>7729.47</price>
+        <price>7778.76</price>
         <currencyId>UAH</currencyId>
         <categoryId>981801440</categoryId>
         <picture>https://airunit.com.ua/content/images/48/92479179275764_+fc3b2114b6.jpg</picture>
@@ -8000,7 +8000,7 @@
       </offer>
       <offer id="WDBU6Y0050BBK-WESN" available="true">
         <url>https://airunit.com.ua/zhorstkyi-dysk-western-digital-5-tb-br-wdbu6y0050bbk-wesn/</url>
-        <price>7426.38</price>
+        <price>7473.71</price>
         <currencyId>UAH</currencyId>
         <categoryId>582733047</categoryId>
         <picture>https://airunit.com.ua/content/images/3/zhorstkyi-dysk-western-digital-5-tb-br-wdbu6y0050bbk-wesn-84186803016741_+096fbd4e7e.png</picture>
@@ -8081,7 +8081,7 @@
       </offer>
       <offer id="MB-MD128SB/WW" available="true">
         <url>https://airunit.com.ua/karta-pamiati-micro-sdxc-pro-128gb-w-reader-mb-md128sb-ww-samsung/</url>
-        <price>1999</price>
+        <price>2099</price>
         <currencyId>UAH</currencyId>
         <categoryId>132629021</categoryId>
         <picture>https://airunit.com.ua/content/images/47/79141043957708_+685eabcdc1.jpg</picture>
@@ -8117,7 +8117,7 @@
       </offer>
       <offer id="WDD256G1P0C" available="true">
         <url>https://airunit.com.ua/karta-pamiati-micro-sdxc-256gb-uhs-i-wdd256g1p0c-wdc/</url>
-        <price>2879.62</price>
+        <price>2897.95</price>
         <currencyId>UAH</currencyId>
         <categoryId>655901057</categoryId>
         <picture>https://airunit.com.ua/content/images/3/76176943268996_+6ada7aa7d4.jpg</picture>
