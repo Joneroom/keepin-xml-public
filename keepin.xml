@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-17 06:49">
+<yml_catalog date="2026-03-17 12:39">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -3865,13 +3865,13 @@
         <vendorCode>DELTAProTG</vendorCode>
         <name>Адаптер DELTA Pro to Smart Generator</name>
       </offer>
-      <offer id="102000199" available="true">
+      <offer id="87" available="true">
         <url>https://airunit.com.ua/akumuliator-evo-ii/</url>
         <price>5799</price>
         <currencyId>UAH</currencyId>
         <categoryId>939963923</categoryId>
         <picture>https://airunit.com.ua/content/images/27/akumuliator-evo-ii-57372596671874_+542ff42b4a.png</picture>
-        <vendorCode>102000199</vendorCode>
+        <vendorCode>87</vendorCode>
         <name>Акумулятор EVO II</name>
       </offer>
       <offer id="PPDML-M01" available="true">
@@ -8201,16 +8201,16 @@
         <vendorCode>fpv-AirUnit-no-battery-1</vendorCode>
         <name>Дрон FPV 10 дюймів &lt;br&gt; (З АКБ, 12000 mAh)</name>
       </offer>
-      <offer id="fpv-AirUnit-no battery" available="true">
+      <offer id="721" available="true">
         <url>https://airunit.com.ua/dron-fpv-10-diuimiv-br-bez-akb/</url>
         <price>15000</price>
         <currencyId>UAH</currencyId>
         <categoryId>1475910886</categoryId>
         <picture>https://airunit.com.ua/content/images/22/72070313736929_+c3fc45125c.png</picture>
-        <vendorCode>fpv-AirUnit-no battery</vendorCode>
+        <vendorCode>721</vendorCode>
         <name>Дрон FPV 10 дюймів &lt;br&gt; (Без АКБ)</name>
       </offer>
-      <offer id="fpv-AirUnit-2-modif" available="true" group_id="fpv-AirUnit-no battery">
+      <offer id="fpv-AirUnit-2-modif" available="true" group_id="721">
         <url>https://airunit.com.ua/dron-fpv-10-diuimiv-z-akb-8000-mah/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
@@ -8227,7 +8227,7 @@
         <vendorCode>fpv-AirUnit-2-modif</vendorCode>
         <name>Дрон FPV 10 дюймів &lt;br&gt; (Без АКБ)</name>
       </offer>
-      <offer id="fpv-AirUnit-modif" available="true" group_id="fpv-AirUnit-no battery">
+      <offer id="fpv-AirUnit-modif" available="true" group_id="721">
         <url>https://airunit.com.ua/dron-fpv-10-diuimiv-z-akb-12000-mah/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
