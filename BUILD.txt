@@ -1,6 +1,6 @@
-Updated (local): 2026-03-19 06:42:22
+Updated (local): 2026-03-19 12:34:06
 KEEPIN_MAX_ITEMS=0
-Categories: 304
-Offers: 1124
+Categories: 305
+Offers: 1125
 Format: yml_catalog/shop/categories+offers
 Variants: offer attr group_id=<parent_article>, main offer id=<parent_article>
