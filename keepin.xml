@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-23 12:37">
+<yml_catalog date="2026-03-23 18:36">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -1612,7 +1612,7 @@
         <price>59854.47</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
-        <picture>https://airunit.com.ua/content/images/14/47167040902930_+5587128fc8.png</picture>
+        <picture>https://airunit.com.ua/content/images/14/aaronia-antenna-hyperlog-3080-76003638003936_+8221086340.png</picture>
         <vendorCode>201/012</vendorCode>
         <name>Антена HyperLOG 3080</name>
       </offer>
