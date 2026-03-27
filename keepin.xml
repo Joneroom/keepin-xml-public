@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-27 12:34">
+<yml_catalog date="2026-03-27 18:39">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -91,7 +91,7 @@
       <category id="1502013214" parentId="610689099">Аналізатори спектру</category>
       <category id="910866768" parentId="610689099">Додаткові компоненти</category>
       <category id="1850188937" parentId="610689099">Комплекти</category>
-      <category id="2055152940" parentId="610689099">Софт</category>
+      <category id="859797339" parentId="610689099">Програмне забезпечення</category>
       <category id="548101066" parentId="423272085">Agras T10</category>
       <category id="1077838037" parentId="423272085">Agras T20P</category>
       <category id="312293704" parentId="423272085">Agras T30</category>
@@ -7486,222 +7486,6 @@
         <vendorCode>A151X</vendorCode>
         <name>Raptor XR для DJI RC PRO Controller [A151X]</name>
       </offer>
-      <offer id="122-039" available="true">
-        <url>https://airunit.com.ua/gnss-kompas/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/39/gnss-kompas-61798513871764_+f11a37af43.png</picture>
-        <vendorCode>122-039</vendorCode>
-        <name>GNSS-компас</name>
-      </offer>
-      <offer id="122-004" available="true">
-        <url>https://airunit.com.ua/gps/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/40/gps-77331510496125_+462be03390.png</picture>
-        <vendorCode>122-004</vendorCode>
-        <name>GPS</name>
-      </offer>
-      <offer id="122-008" available="true">
-        <url>https://airunit.com.ua/datchyk-potuzhnosti-nrq6/</url>
-        <price>99757.44</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/41/datchyk-potuzhnosti-nrq6-59466979513168_+29388353f4.png</picture>
-        <vendorCode>122-008</vendorCode>
-        <name>Датчик потужності NRQ6</name>
-      </offer>
-      <offer id="122-029" available="true">
-        <url>https://airunit.com.ua/intehratsiia-analizatoriv-tektronix-tektronix-rsa/</url>
-        <price>166351.19</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/42/intehratsiia-analizatoriv-tektronix-tektronix-rsa-48195441324511_+cf075c9460.png</picture>
-        <vendorCode>122-029</vendorCode>
-        <name>Інтеграція аналізаторів Tektronix (Tektronix RSA)</name>
-      </offer>
-      <offer id="122-051" available="true">
-        <url>https://airunit.com.ua/i-q-spektr-potuzhnosti-vysokoi-tochnosti/</url>
-        <price>665804.31</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/43/i-q-spektr-potuzhnosti-vysokoi-tochnosti-78086501264332_+906cc90534.png</picture>
-        <vendorCode>122-051</vendorCode>
-        <name>I/Q-спектр потужності високої точності</name>
-      </offer>
-      <offer id="122-031" available="true">
-        <url>https://airunit.com.ua/zshyvach-spektriv/</url>
-        <price>332835.56</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/44/zshyvach-spektriv-24268148464388_+00ce301084.png</picture>
-        <vendorCode>122-031</vendorCode>
-        <name>Зшивач спектрів</name>
-      </offer>
-      <offer id="122-030" available="true">
-        <url>https://airunit.com.ua/dyferentsialnyi-analizator/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/45/dyferentsialnyi-analizator-63912781932591_+0a377fad13.png</picture>
-        <vendorCode>122-030</vendorCode>
-        <name>Диференціальний аналізатор</name>
-      </offer>
-      <offer id="122-016" available="true">
-        <url>https://airunit.com.ua/multypleksor-potokiv/</url>
-        <price>66460.56</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/46/multypleksor-potokiv-76214789842339_+37f2ac6df0.png</picture>
-        <vendorCode>122-016</vendorCode>
-        <name>Мультиплексор потоків</name>
-      </offer>
-      <offer id="122-012" available="true">
-        <url>https://airunit.com.ua/http-server/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/47/http-server-34579985786526_+0fbe47f793.png</picture>
-        <vendorCode>122-012</vendorCode>
-        <name>HTTP-сервер</name>
-      </offer>
-      <offer id="122-013" available="true">
-        <url>https://airunit.com.ua/http-kliient/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/48/http-kliient-88887912353794_+7d8a257635.png</picture>
-        <vendorCode>122-013</vendorCode>
-        <name>HTTP-клієнт</name>
-      </offer>
-      <offer id="122-001" available="true">
-        <url>https://airunit.com.ua/podavliuvach-impulsnykh-zavad/</url>
-        <price>99757.44</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/49/podavliuvach-impulsnykh-zavad-41065593629408_+952d295716.png</picture>
-        <vendorCode>122-001</vendorCode>
-        <name>Подавлювач імпульсних завад</name>
-      </offer>
-      <offer id="122-005" available="true">
-        <url>https://airunit.com.ua/analizator-harmonik/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/50/analizator-harmonik-99602064993562_+03d1f301b0.png</picture>
-        <vendorCode>122-005</vendorCode>
-        <name>Аналізатор гармонік</name>
-      </offer>
-      <offer id="122-006" available="true">
-        <url>https://airunit.com.ua/analizator-intermoduliatsii/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/1/analizator-intermoduliatsii-85488359110026_+005634d6f9.png</picture>
-        <vendorCode>122-006</vendorCode>
-        <name>Аналізатор інтермодуляції</name>
-      </offer>
-      <offer id="122-007" available="true">
-        <url>https://airunit.com.ua/datchyk-potuzhnosti-nrp-z11/</url>
-        <price>99757.44</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/2/datchyk-potuzhnosti-nrp-z11-76275988259475_+a692e72fbe.png</picture>
-        <vendorCode>122-007</vendorCode>
-        <name>Датчик потужності NRP-Z11</name>
-      </offer>
-      <offer id="122-032" available="true">
-        <url>https://airunit.com.ua/henerator-skanuvannia-spectran-v6/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/3/henerator-skanuvannia-spectran-v6-61746214035691_+07d3e012e9.png</picture>
-        <vendorCode>122-032</vendorCode>
-        <name>Генератор сканування Spectran V6</name>
-      </offer>
-      <offer id="122-002" available="true">
-        <url>https://airunit.com.ua/vymiriuvach-potuzhnosti-kanalu/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/4/54373963427728_+73cb45285b.png</picture>
-        <vendorCode>122-002</vendorCode>
-        <name>Вимірювач потужності каналу</name>
-      </offer>
-      <offer id="122-028" available="true">
-        <url>https://airunit.com.ua/rch-peremykach-sp4t/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/5/rch-peremykach-sp4t-23143468697363_+28a3d19e67.png</picture>
-        <vendorCode>122-028</vendorCode>
-        <name>РЧ-перемикач SP4T</name>
-      </offer>
-      <offer id="122-034" available="true">
-        <url>https://airunit.com.ua/kartohraf-vzaiemodii-iq-wifi/</url>
-        <price>166351.19</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/6/kartohraf-vzaiemodii-iq-wifi-77537043208391_+4964608f00.png</picture>
-        <vendorCode>122-034</vendorCode>
-        <name>Картограф взаємодії IQ WiFi</name>
-      </offer>
-      <offer id="122-036" available="true">
-        <url>https://airunit.com.ua/lokator-rivnia-syhnalu/</url>
-        <price>332835.56</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/7/lokator-rivnia-syhnalu-61316985263642_+9c8a93bccd.png</picture>
-        <vendorCode>122-036</vendorCode>
-        <name>Локатор рівня сигналу</name>
-      </offer>
-      <offer id="122-037" available="true">
-        <url>https://airunit.com.ua/bahatosmuhovyi-sekvensor/</url>
-        <price>332835.56</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/8/bahatosmuhovyi-sekvensor-34310330017731_+dc6c801617.png</picture>
-        <vendorCode>122-037</vendorCode>
-        <name>Багатосмуговий секвенсор</name>
-      </offer>
-      <offer id="122-038" available="true">
-        <url>https://airunit.com.ua/trekinh-henerator-spectran-v6/</url>
-        <price>166351.19</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/9/trekinh-henerator-spectran-v6-62002760163369_+868f3b065a.png</picture>
-        <vendorCode>122-038</vendorCode>
-        <name>Трекінг-генератор Spectran V6</name>
-      </offer>
-      <offer id="122-040" available="true">
-        <url>https://airunit.com.ua/bahatokanalnyi-rezhektornyi-filtr/</url>
-        <price>332835.56</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/10/bahatokanalnyi-rezhektornyi-filtr-11698571651710_+f5fc1fc4e7.png</picture>
-        <vendorCode>122-040</vendorCode>
-        <name>Багатоканальний режекторний фільтр</name>
-      </offer>
-      <offer id="122-046" available="true">
-        <url>https://airunit.com.ua/hislip-scpi-server/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/11/hislip-scpi-server-91224322953398_+2cf42ec121.png</picture>
-        <vendorCode>122-046</vendorCode>
-        <name>HiSLIP-SCPI сервер</name>
-      </offer>
-      <offer id="122-049" available="true">
-        <url>https://airunit.com.ua/statystyka-potuzhnosti-i-q/</url>
-        <price>33163.69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2055152940</categoryId>
-        <picture>https://airunit.com.ua/content/images/12/statystyka-potuzhnosti-i-q-94802421006300_+e801b6b610.png</picture>
-        <vendorCode>122-049</vendorCode>
-        <name>Статистика потужності I/Q</name>
-      </offer>
       <offer id="EF-RG-SOLAR-100" available="true">
         <url>https://airunit.com.ua/100w-rigid-solar-panel/</url>
         <price>5136</price>
@@ -10768,6 +10552,222 @@
         <picture>https://airunit.com.ua/content/images/31/zariadna-stantsiia-ecoflow-river-2-pro-35113849251600_+8595065fc5.png</picture>
         <vendorCode>RIVER2PRO</vendorCode>
         <name>Зарядна станція EcoFlow RIVER 2 Pro EU</name>
+      </offer>
+      <offer id="122-039" available="true">
+        <url>https://airunit.com.ua/gnss-kompas/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/39/gnss-kompas-61798513871764_+f11a37af43.png</picture>
+        <vendorCode>122-039</vendorCode>
+        <name>GNSS-компас</name>
+      </offer>
+      <offer id="122-004" available="true">
+        <url>https://airunit.com.ua/gps/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/40/gps-77331510496125_+462be03390.png</picture>
+        <vendorCode>122-004</vendorCode>
+        <name>GPS</name>
+      </offer>
+      <offer id="122-008" available="true">
+        <url>https://airunit.com.ua/datchyk-potuzhnosti-nrq6/</url>
+        <price>99757.44</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/41/datchyk-potuzhnosti-nrq6-59466979513168_+29388353f4.png</picture>
+        <vendorCode>122-008</vendorCode>
+        <name>Датчик потужності NRQ6</name>
+      </offer>
+      <offer id="122-029" available="true">
+        <url>https://airunit.com.ua/intehratsiia-analizatoriv-tektronix-tektronix-rsa/</url>
+        <price>166351.19</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/42/intehratsiia-analizatoriv-tektronix-tektronix-rsa-48195441324511_+cf075c9460.png</picture>
+        <vendorCode>122-029</vendorCode>
+        <name>Інтеграція аналізаторів Tektronix (Tektronix RSA)</name>
+      </offer>
+      <offer id="122-051" available="true">
+        <url>https://airunit.com.ua/i-q-spektr-potuzhnosti-vysokoi-tochnosti/</url>
+        <price>665804.31</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/43/i-q-spektr-potuzhnosti-vysokoi-tochnosti-78086501264332_+906cc90534.png</picture>
+        <vendorCode>122-051</vendorCode>
+        <name>I/Q-спектр потужності високої точності</name>
+      </offer>
+      <offer id="122-031" available="true">
+        <url>https://airunit.com.ua/zshyvach-spektriv/</url>
+        <price>332835.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/44/zshyvach-spektriv-24268148464388_+00ce301084.png</picture>
+        <vendorCode>122-031</vendorCode>
+        <name>Зшивач спектрів</name>
+      </offer>
+      <offer id="122-030" available="true">
+        <url>https://airunit.com.ua/dyferentsialnyi-analizator/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/45/dyferentsialnyi-analizator-63912781932591_+0a377fad13.png</picture>
+        <vendorCode>122-030</vendorCode>
+        <name>Диференціальний аналізатор</name>
+      </offer>
+      <offer id="122-016" available="true">
+        <url>https://airunit.com.ua/multypleksor-potokiv/</url>
+        <price>66460.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/46/multypleksor-potokiv-76214789842339_+37f2ac6df0.png</picture>
+        <vendorCode>122-016</vendorCode>
+        <name>Мультиплексор потоків</name>
+      </offer>
+      <offer id="122-012" available="true">
+        <url>https://airunit.com.ua/http-server/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/47/http-server-34579985786526_+0fbe47f793.png</picture>
+        <vendorCode>122-012</vendorCode>
+        <name>HTTP-сервер</name>
+      </offer>
+      <offer id="122-013" available="true">
+        <url>https://airunit.com.ua/http-kliient/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/48/http-kliient-88887912353794_+7d8a257635.png</picture>
+        <vendorCode>122-013</vendorCode>
+        <name>HTTP-клієнт</name>
+      </offer>
+      <offer id="122-001" available="true">
+        <url>https://airunit.com.ua/podavliuvach-impulsnykh-zavad/</url>
+        <price>99757.44</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/49/podavliuvach-impulsnykh-zavad-41065593629408_+952d295716.png</picture>
+        <vendorCode>122-001</vendorCode>
+        <name>Подавлювач імпульсних завад</name>
+      </offer>
+      <offer id="122-005" available="true">
+        <url>https://airunit.com.ua/analizator-harmonik/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/50/analizator-harmonik-99602064993562_+03d1f301b0.png</picture>
+        <vendorCode>122-005</vendorCode>
+        <name>Аналізатор гармонік</name>
+      </offer>
+      <offer id="122-006" available="true">
+        <url>https://airunit.com.ua/analizator-intermoduliatsii/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/1/analizator-intermoduliatsii-85488359110026_+005634d6f9.png</picture>
+        <vendorCode>122-006</vendorCode>
+        <name>Аналізатор інтермодуляції</name>
+      </offer>
+      <offer id="122-007" available="true">
+        <url>https://airunit.com.ua/datchyk-potuzhnosti-nrp-z11/</url>
+        <price>99757.44</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/2/datchyk-potuzhnosti-nrp-z11-76275988259475_+a692e72fbe.png</picture>
+        <vendorCode>122-007</vendorCode>
+        <name>Датчик потужності NRP-Z11</name>
+      </offer>
+      <offer id="122-032" available="true">
+        <url>https://airunit.com.ua/henerator-skanuvannia-spectran-v6/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/3/henerator-skanuvannia-spectran-v6-61746214035691_+07d3e012e9.png</picture>
+        <vendorCode>122-032</vendorCode>
+        <name>Генератор сканування Spectran V6</name>
+      </offer>
+      <offer id="122-002" available="true">
+        <url>https://airunit.com.ua/vymiriuvach-potuzhnosti-kanalu/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/4/54373963427728_+73cb45285b.png</picture>
+        <vendorCode>122-002</vendorCode>
+        <name>Вимірювач потужності каналу</name>
+      </offer>
+      <offer id="122-028" available="true">
+        <url>https://airunit.com.ua/rch-peremykach-sp4t/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/5/rch-peremykach-sp4t-23143468697363_+28a3d19e67.png</picture>
+        <vendorCode>122-028</vendorCode>
+        <name>РЧ-перемикач SP4T</name>
+      </offer>
+      <offer id="122-034" available="true">
+        <url>https://airunit.com.ua/kartohraf-vzaiemodii-iq-wifi/</url>
+        <price>166351.19</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/6/kartohraf-vzaiemodii-iq-wifi-77537043208391_+4964608f00.png</picture>
+        <vendorCode>122-034</vendorCode>
+        <name>Картограф взаємодії IQ WiFi</name>
+      </offer>
+      <offer id="122-036" available="true">
+        <url>https://airunit.com.ua/lokator-rivnia-syhnalu/</url>
+        <price>332835.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/7/lokator-rivnia-syhnalu-61316985263642_+9c8a93bccd.png</picture>
+        <vendorCode>122-036</vendorCode>
+        <name>Локатор рівня сигналу</name>
+      </offer>
+      <offer id="122-037" available="true">
+        <url>https://airunit.com.ua/bahatosmuhovyi-sekvensor/</url>
+        <price>332835.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/8/bahatosmuhovyi-sekvensor-34310330017731_+dc6c801617.png</picture>
+        <vendorCode>122-037</vendorCode>
+        <name>Багатосмуговий секвенсор</name>
+      </offer>
+      <offer id="122-038" available="true">
+        <url>https://airunit.com.ua/trekinh-henerator-spectran-v6/</url>
+        <price>166351.19</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/9/trekinh-henerator-spectran-v6-62002760163369_+868f3b065a.png</picture>
+        <vendorCode>122-038</vendorCode>
+        <name>Трекінг-генератор Spectran V6</name>
+      </offer>
+      <offer id="122-040" available="true">
+        <url>https://airunit.com.ua/bahatokanalnyi-rezhektornyi-filtr/</url>
+        <price>332835.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/10/bahatokanalnyi-rezhektornyi-filtr-11698571651710_+f5fc1fc4e7.png</picture>
+        <vendorCode>122-040</vendorCode>
+        <name>Багатоканальний режекторний фільтр</name>
+      </offer>
+      <offer id="122-046" available="true">
+        <url>https://airunit.com.ua/hislip-scpi-server/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/11/hislip-scpi-server-91224322953398_+2cf42ec121.png</picture>
+        <vendorCode>122-046</vendorCode>
+        <name>HiSLIP-SCPI сервер</name>
+      </offer>
+      <offer id="122-049" available="true">
+        <url>https://airunit.com.ua/statystyka-potuzhnosti-i-q/</url>
+        <price>33163.69</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/12/statystyka-potuzhnosti-i-q-94802421006300_+e801b6b610.png</picture>
+        <vendorCode>122-049</vendorCode>
+        <name>Статистика потужності I/Q</name>
       </offer>
     </offers>
   </shop>
