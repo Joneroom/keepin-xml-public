@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-01 12:48">
+<yml_catalog date="2026-04-01 18:42">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -920,7 +920,7 @@
       </offer>
       <offer id="102/001" available="true">
         <url>https://airunit.com.ua/analizator-spektru-spectran-v6-plus-250xa-6/</url>
-        <price>246387.93</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>740878626</categoryId>
         <picture>https://airunit.com.ua/content/images/2/91362622807427_+9b6193398f.png</picture>
@@ -1609,7 +1609,7 @@
       </offer>
       <offer id="201/012" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-3080/</url>
-        <price>59730.41</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
         <picture>https://airunit.com.ua/content/images/14/aaronia-antenna-hyperlog-3080-76003638003936_+8221086340.png</picture>
@@ -1942,7 +1942,7 @@
       </offer>
       <offer id="202/005" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-1060/</url>
-        <price>28076.19</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/15/39288285961011_+e57e316d85.png</picture>
@@ -7542,7 +7542,7 @@
       </offer>
       <offer id="EAN 4897082664871" available="true">
         <url>https://airunit.com.ua/ecoflow-400w-solar-panel/</url>
-        <price>21999</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>2018656875</categoryId>
         <picture>https://airunit.com.ua/content/images/47/sonyachna-batareya-ecoflow-400w-solar-panel-31050179022105_+5df1ae5a2c.jpg</picture>
