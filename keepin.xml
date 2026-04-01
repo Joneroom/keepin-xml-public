@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-01 01:17">
+<yml_catalog date="2026-04-01 07:06">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -7047,7 +7047,7 @@
       </offer>
       <offer id="XK03K" available="true">
         <url>https://airunit.com.ua/proektor-dlia-domu-xgimi-horizon-xk03k/</url>
-        <price>47999</price>
+        <price>54999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1797840300</categoryId>
         <picture>https://airunit.com.ua/content/images/30/84140151926179_+12255fc2da.png</picture>
@@ -7056,7 +7056,7 @@
       </offer>
       <offer id="XK03H" available="true">
         <url>https://airunit.com.ua/proektor-dlia-domu-xgimi-horizon-pro-xk03h/</url>
-        <price>49999</price>
+        <price>59999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1797840300</categoryId>
         <picture>https://airunit.com.ua/content/images/31/20592922928480_+2f5bf838d3.png</picture>
@@ -7353,7 +7353,7 @@
       </offer>
       <offer id="P165S" available="true">
         <url>https://airunit.com.ua/ekran-dlia-proektora-xgimi-100-diuimiv-ust-alr-screen-p165s/</url>
-        <price>69999</price>
+        <price>79999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1999668743</categoryId>
         <picture>https://airunit.com.ua/content/images/23/ekran-dlia-proektora-xgimi-100-diuimiv-ust-alr-screen-p165s-49574504721835_+8ff7ccee90.png</picture>
@@ -9943,7 +9943,7 @@
       </offer>
       <offer id="AEWAL-021" available="true">
         <url>https://airunit.com.ua/modul-obiektyva-macro-lens-mod-gopro-hero13-black/</url>
-        <price>7999</price>
+        <price>7499</price>
         <currencyId>UAH</currencyId>
         <categoryId>898975105</categoryId>
         <picture>https://airunit.com.ua/content/images/23/71782075353478_+3d38b7dade.png</picture>
