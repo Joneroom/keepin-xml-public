@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-06 07:14">
+<yml_catalog date="2026-04-06 12:41">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -91,6 +91,7 @@
       <category id="1502013214" parentId="610689099">Аналізатори спектру</category>
       <category id="910866768" parentId="610689099">Додаткові компоненти</category>
       <category id="1850188937" parentId="610689099">Комплекти</category>
+      <category id="93056520" parentId="610689099">Конструктор товари</category>
       <category id="859797339" parentId="610689099">Програмне забезпечення</category>
       <category id="548101066" parentId="423272085">Agras T10</category>
       <category id="1077838037" parentId="423272085">Agras T20P</category>
@@ -1033,7 +1034,7 @@
       </offer>
       <offer id="102/002" available="true">
         <url>https://airunit.com.ua/analizator-spektru-spectran-v6-plus-500xa-6/</url>
-        <price>423596.75</price>
+        <price>421602.42</price>
         <currencyId>UAH</currencyId>
         <categoryId>740878626</categoryId>
         <picture>https://airunit.com.ua/content/images/3/22251639430228_+82e12b977e.png</picture>
@@ -1147,7 +1148,7 @@
       </offer>
       <offer id="102/003" available="true">
         <url>https://airunit.com.ua/analizator-spektru-spectran-v6-plus-2000xa-6/</url>
-        <price>706088.75</price>
+        <price>702764.42</price>
         <currencyId>UAH</currencyId>
         <categoryId>740878626</categoryId>
         <picture>https://airunit.com.ua/content/images/6/60735694618243_+7d1b050270.png</picture>
@@ -1555,7 +1556,7 @@
       </offer>
       <offer id="201/004" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-6080/</url>
-        <price>45763.7</price>
+        <price>45548.24</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
         <picture>https://airunit.com.ua/content/images/8/91388021348231_+aed769d202.png</picture>
@@ -1573,7 +1574,7 @@
       </offer>
       <offer id="201/006" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-60180/</url>
-        <price>109324.4</price>
+        <price>108809.69</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
         <picture>https://airunit.com.ua/content/images/10/41050695132316_+10bb6548db.png</picture>
@@ -1636,7 +1637,7 @@
       </offer>
       <offer id="201/019" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-7060x/</url>
-        <price>66950.6</price>
+        <price>66635.39</price>
         <currencyId>UAH</currencyId>
         <categoryId>645025107</categoryId>
         <picture>https://airunit.com.ua/content/images/17/71427330117721_+9ed796cce2.png</picture>
@@ -1645,7 +1646,7 @@
       </offer>
       <offer id="201/020" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-6080x/</url>
-        <price>88137.5</price>
+        <price>87722.54</price>
         <currencyId>UAH</currencyId>
         <categoryId>645025107</categoryId>
         <picture>https://airunit.com.ua/content/images/18/99683648999289_+e7cfc1cd6a.png</picture>
@@ -1708,7 +1709,7 @@
       </offer>
       <offer id="201/043" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-hyperlog-pro-18200/</url>
-        <price>141104.75</price>
+        <price>140440.42</price>
         <currencyId>UAH</currencyId>
         <categoryId>2073073020</categoryId>
         <picture>https://airunit.com.ua/content/images/25/65779766494228_+244e7f10a2.png</picture>
@@ -1807,7 +1808,7 @@
       </offer>
       <offer id="204/004" available="true">
         <url>https://airunit.com.ua/aaronia-p-antenna-bicolog-20300/</url>
-        <price>144635.9</price>
+        <price>143954.94</price>
         <currencyId>UAH</currencyId>
         <categoryId>1128872341</categoryId>
         <picture>https://airunit.com.ua/content/images/49/51821581696332_+208d40f2de.png</picture>
@@ -1951,7 +1952,7 @@
       </offer>
       <offer id="202/013" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-n-1060/</url>
-        <price>28107.95</price>
+        <price>27975.62</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/16/53499448125136_+ced9eccd9c.png</picture>
@@ -1960,7 +1961,7 @@
       </offer>
       <offer id="202/006" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-10100/</url>
-        <price>49294.85</price>
+        <price>49062.77</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/17/96989700187405_+edd0167c58.png</picture>
@@ -1978,7 +1979,7 @@
       </offer>
       <offer id="202/007" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-10200/</url>
-        <price>105793.25</price>
+        <price>105295.17</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/19/34379420943152_+678cd33a5e.png</picture>
@@ -2014,7 +2015,7 @@
       </offer>
       <offer id="202/009" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-7060h/</url>
-        <price>56357.15</price>
+        <price>56091.82</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/23/79729966998878_+f81986f3c7.png</picture>
@@ -2086,7 +2087,7 @@
       </offer>
       <offer id="205/004" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-powerlog-pro-30300-emi/</url>
-        <price>282350.75</price>
+        <price>281021.42</price>
         <currencyId>UAH</currencyId>
         <categoryId>1906820553</categoryId>
         <picture>https://airunit.com.ua/content/images/31/81769437616948_+837ec8fcb6.png</picture>
@@ -3346,7 +3347,7 @@
       </offer>
       <offer id="102/036" available="true">
         <url>https://airunit.com.ua/analizator-spektru-spectran-v6-eco-150xa-6/</url>
-        <price>247039.25</price>
+        <price>245876.17</price>
         <currencyId>UAH</currencyId>
         <categoryId>2070779504</categoryId>
         <picture>https://airunit.com.ua/content/images/14/41576957642478_+f2cf563b3f.png</picture>
@@ -3904,7 +3905,7 @@
       </offer>
       <offer id="201/047" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-pro-7080x/</url>
-        <price>176416.25</price>
+        <price>175585.67</price>
         <currencyId>UAH</currencyId>
         <categoryId>2073073020</categoryId>
         <picture>https://airunit.com.ua/content/images/36/antena-hyperlog-pro-7080x-21832260334750_+67bebaf817.png</picture>
@@ -3913,7 +3914,7 @@
       </offer>
       <offer id="502/024" available="true">
         <url>https://airunit.com.ua/sma-limiter/</url>
-        <price>10589.92</price>
+        <price>10540.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>2002687012</categoryId>
         <picture>https://airunit.com.ua/content/images/38/71621958259694_+93acdd0062.png</picture>
@@ -4066,7 +4067,7 @@
       </offer>
       <offer id="504/013" available="true">
         <url>https://airunit.com.ua/outdoor-case-small-v6/</url>
-        <price>7058.77</price>
+        <price>7025.54</price>
         <currencyId>UAH</currencyId>
         <categoryId>247810455</categoryId>
         <picture>https://airunit.com.ua/content/images/17/65715557422130_+8d12438df8.png</picture>
@@ -4741,7 +4742,7 @@
       </offer>
       <offer id="201/025" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-4060x/</url>
-        <price>81075.2</price>
+        <price>80693.49</price>
         <currencyId>UAH</currencyId>
         <categoryId>645025107</categoryId>
         <picture>https://airunit.com.ua/content/images/46/antena-hyperlog-4060x-26474898925257_+bc6b589edc.png</picture>
@@ -4804,7 +4805,7 @@
       </offer>
       <offer id="201/013" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-30100/</url>
-        <price>74012.9</price>
+        <price>73664.44</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
         <picture>https://airunit.com.ua/content/images/4/antena-hyperlog-30100-18010450515253_+d2a4865faa.png</picture>
@@ -4813,7 +4814,7 @@
       </offer>
       <offer id="201/014" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-30180/</url>
-        <price>144635.9</price>
+        <price>143954.94</price>
         <currencyId>UAH</currencyId>
         <categoryId>827842863</categoryId>
         <picture>https://airunit.com.ua/content/images/5/34528302813622_+ca89e70a68.png</picture>
@@ -4849,7 +4850,7 @@
       </offer>
       <offer id="201/046" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-pro-70200/</url>
-        <price>141104.75</price>
+        <price>140440.42</price>
         <currencyId>UAH</currencyId>
         <categoryId>2073073020</categoryId>
         <picture>https://airunit.com.ua/content/images/11/71008035799554_+7cebb9a611.png</picture>
@@ -5209,7 +5210,7 @@
       </offer>
       <offer id="201/044" available="true">
         <url>https://airunit.com.ua/antena-hyperlog-pro-7080/</url>
-        <price>70481.75</price>
+        <price>70149.92</price>
         <currencyId>UAH</currencyId>
         <categoryId>2073073020</categoryId>
         <picture>https://airunit.com.ua/content/images/50/antena-hyperlog-pro-7080-95347401008212_+f1710c7730.png</picture>
@@ -5679,7 +5680,7 @@
       </offer>
       <offer id="501/054" available="true">
         <url>https://airunit.com.ua/kabel-sma-z-nyzkymy-vtratamy-5-m/</url>
-        <price>13347.75</price>
+        <price>13284.9</price>
         <currencyId>UAH</currencyId>
         <categoryId>972003905</categoryId>
         <picture>https://airunit.com.ua/content/images/38/42012254592909_+e06270d67e.png</picture>
@@ -5742,7 +5743,7 @@
       </offer>
       <offer id="501/006" available="true">
         <url>https://airunit.com.ua/sma-kabel-1-m/</url>
-        <price>2115.16</price>
+        <price>2105.2</price>
         <currencyId>UAH</currencyId>
         <categoryId>972003905</categoryId>
         <picture>https://airunit.com.ua/content/images/45/sma-kabel-1-m-97458873394573_+315d538b70.png</picture>
@@ -5967,7 +5968,7 @@
       </offer>
       <offer id="502/003" available="true">
         <url>https://airunit.com.ua/ateniuator-20-db/</url>
-        <price>10589.92</price>
+        <price>10540.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>2002687012</categoryId>
         <picture>https://airunit.com.ua/content/images/20/ateniuator-20-db-41725639446272_+5af1cb5732.png</picture>
@@ -5976,7 +5977,7 @@
       </offer>
       <offer id="502/002" available="true">
         <url>https://airunit.com.ua/dc-blokuvalnyksma/</url>
-        <price>7058.77</price>
+        <price>7025.54</price>
         <currencyId>UAH</currencyId>
         <categoryId>2002687012</categoryId>
         <picture>https://airunit.com.ua/content/images/21/78710143057725_+d9f7f276ff.png</picture>
@@ -6021,7 +6022,7 @@
       </offer>
       <offer id="501/048" available="true">
         <url>https://airunit.com.ua/usb-power-supply-charger-12v-dc/</url>
-        <price>2115.16</price>
+        <price>2105.2</price>
         <currencyId>UAH</currencyId>
         <categoryId>1589277947</categoryId>
         <picture>https://airunit.com.ua/content/images/26/45047251805445_+bc66e9cfe1.png</picture>
@@ -6165,7 +6166,7 @@
       </offer>
       <offer id="503/010" available="true">
         <url>https://airunit.com.ua/miniatiurnyi-shtatyv/</url>
-        <price>1408.93</price>
+        <price>1402.3</price>
         <currencyId>UAH</currencyId>
         <categoryId>1428082205</categoryId>
         <picture>https://airunit.com.ua/content/images/43/miniatiurnyi-shtatyv-18617040545269_+3e9937ef82.png</picture>
@@ -6174,7 +6175,7 @@
       </offer>
       <offer id="503/057" available="true">
         <url>https://airunit.com.ua/compact-aluminum-tripod/</url>
-        <price>5646.31</price>
+        <price>5619.73</price>
         <currencyId>UAH</currencyId>
         <categoryId>1428082205</categoryId>
         <picture>https://airunit.com.ua/content/images/44/compact-aluminum-tripod-15077834198171_+df69c14201.png</picture>
@@ -7485,6 +7486,15 @@
         <picture>https://airunit.com.ua/content/images/38/79413171386523_+dc60076668.png</picture>
         <vendorCode>A151X</vendorCode>
         <name>Raptor XR для DJI RC PRO Controller [A151X]</name>
+      </offer>
+      <offer id="V6 Workbench" available="true">
+        <url>https://airunit.com.ua/v6-workbench-test/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>93056520</categoryId>
+        <picture>https://airunit.com.ua/content/images/17/v6-workbench-test-55576480362965_+f18c548730.png</picture>
+        <vendorCode>V6 Workbench</vendorCode>
+        <name>V6 Workbench</name>
       </offer>
       <offer id="EF-RG-SOLAR-100" available="true">
         <url>https://airunit.com.ua/100w-rigid-solar-panel/</url>
@@ -10555,7 +10565,7 @@
       </offer>
       <offer id="122-039" available="true">
         <url>https://airunit.com.ua/gnss-kompas/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/39/gnss-kompas-61798513871764_+f11a37af43.png</picture>
@@ -10564,7 +10574,7 @@
       </offer>
       <offer id="122-004" available="true">
         <url>https://airunit.com.ua/gps/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/40/gps-77331510496125_+462be03390.png</picture>
@@ -10573,7 +10583,7 @@
       </offer>
       <offer id="122-008" available="true">
         <url>https://airunit.com.ua/datchyk-potuzhnosti-nrq6/</url>
-        <price>99429.75</price>
+        <price>98961.62</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/41/datchyk-potuzhnosti-nrq6-59466979513168_+29388353f4.png</picture>
@@ -10582,7 +10592,7 @@
       </offer>
       <offer id="122-029" available="true">
         <url>https://airunit.com.ua/intehratsiia-analizatoriv-tektronix-tektronix-rsa/</url>
-        <price>165804.75</price>
+        <price>165024.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/42/intehratsiia-analizatoriv-tektronix-tektronix-rsa-48195441324511_+cf075c9460.png</picture>
@@ -10591,7 +10601,7 @@
       </offer>
       <offer id="122-051" available="true">
         <url>https://airunit.com.ua/i-q-spektr-potuzhnosti-vysokoi-tochnosti/</url>
-        <price>663617.25</price>
+        <price>660492.88</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/43/i-q-spektr-potuzhnosti-vysokoi-tochnosti-78086501264332_+906cc90534.png</picture>
@@ -10600,7 +10610,7 @@
       </offer>
       <offer id="122-031" available="true">
         <url>https://airunit.com.ua/zshyvach-spektriv/</url>
-        <price>331742.25</price>
+        <price>330180.38</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/44/zshyvach-spektriv-24268148464388_+00ce301084.png</picture>
@@ -10609,7 +10619,7 @@
       </offer>
       <offer id="122-030" available="true">
         <url>https://airunit.com.ua/dyferentsialnyi-analizator/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/45/dyferentsialnyi-analizator-63912781932591_+0a377fad13.png</picture>
@@ -10618,7 +10628,7 @@
       </offer>
       <offer id="122-016" available="true">
         <url>https://airunit.com.ua/multypleksor-potokiv/</url>
-        <price>66242.25</price>
+        <price>65930.38</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/46/multypleksor-potokiv-76214789842339_+37f2ac6df0.png</picture>
@@ -10627,7 +10637,7 @@
       </offer>
       <offer id="122-012" available="true">
         <url>https://airunit.com.ua/http-server/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/47/http-server-34579985786526_+0fbe47f793.png</picture>
@@ -10636,7 +10646,7 @@
       </offer>
       <offer id="122-013" available="true">
         <url>https://airunit.com.ua/http-kliient/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/48/http-kliient-88887912353794_+7d8a257635.png</picture>
@@ -10645,7 +10655,7 @@
       </offer>
       <offer id="122-001" available="true">
         <url>https://airunit.com.ua/podavliuvach-impulsnykh-zavad/</url>
-        <price>99429.75</price>
+        <price>98961.62</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/49/podavliuvach-impulsnykh-zavad-41065593629408_+952d295716.png</picture>
@@ -10654,7 +10664,7 @@
       </offer>
       <offer id="122-005" available="true">
         <url>https://airunit.com.ua/analizator-harmonik/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/50/analizator-harmonik-99602064993562_+03d1f301b0.png</picture>
@@ -10663,7 +10673,7 @@
       </offer>
       <offer id="122-006" available="true">
         <url>https://airunit.com.ua/analizator-intermoduliatsii/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/1/analizator-intermoduliatsii-85488359110026_+005634d6f9.png</picture>
@@ -10672,7 +10682,7 @@
       </offer>
       <offer id="122-007" available="true">
         <url>https://airunit.com.ua/datchyk-potuzhnosti-nrp-z11/</url>
-        <price>99429.75</price>
+        <price>98961.62</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/2/datchyk-potuzhnosti-nrp-z11-76275988259475_+a692e72fbe.png</picture>
@@ -10681,7 +10691,7 @@
       </offer>
       <offer id="122-032" available="true">
         <url>https://airunit.com.ua/henerator-skanuvannia-spectran-v6/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/3/henerator-skanuvannia-spectran-v6-61746214035691_+07d3e012e9.png</picture>
@@ -10690,7 +10700,7 @@
       </offer>
       <offer id="122-002" available="true">
         <url>https://airunit.com.ua/vymiriuvach-potuzhnosti-kanalu/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/4/54373963427728_+73cb45285b.png</picture>
@@ -10699,7 +10709,7 @@
       </offer>
       <offer id="122-028" available="true">
         <url>https://airunit.com.ua/rch-peremykach-sp4t/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/5/rch-peremykach-sp4t-23143468697363_+28a3d19e67.png</picture>
@@ -10708,7 +10718,7 @@
       </offer>
       <offer id="122-034" available="true">
         <url>https://airunit.com.ua/kartohraf-vzaiemodii-iq-wifi/</url>
-        <price>165804.75</price>
+        <price>165024.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/6/kartohraf-vzaiemodii-iq-wifi-77537043208391_+4964608f00.png</picture>
@@ -10717,7 +10727,7 @@
       </offer>
       <offer id="122-036" available="true">
         <url>https://airunit.com.ua/lokator-rivnia-syhnalu/</url>
-        <price>331742.25</price>
+        <price>330180.38</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/7/lokator-rivnia-syhnalu-61316985263642_+9c8a93bccd.png</picture>
@@ -10726,7 +10736,7 @@
       </offer>
       <offer id="122-037" available="true">
         <url>https://airunit.com.ua/bahatosmuhovyi-sekvensor/</url>
-        <price>331742.25</price>
+        <price>330180.38</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/8/bahatosmuhovyi-sekvensor-34310330017731_+dc6c801617.png</picture>
@@ -10735,7 +10745,7 @@
       </offer>
       <offer id="122-038" available="true">
         <url>https://airunit.com.ua/trekinh-henerator-spectran-v6/</url>
-        <price>165804.75</price>
+        <price>165024.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/9/trekinh-henerator-spectran-v6-62002760163369_+868f3b065a.png</picture>
@@ -10744,7 +10754,7 @@
       </offer>
       <offer id="122-040" available="true">
         <url>https://airunit.com.ua/bahatokanalnyi-rezhektornyi-filtr/</url>
-        <price>331742.25</price>
+        <price>330180.38</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/10/bahatokanalnyi-rezhektornyi-filtr-11698571651710_+f5fc1fc4e7.png</picture>
@@ -10753,7 +10763,7 @@
       </offer>
       <offer id="122-046" available="true">
         <url>https://airunit.com.ua/hislip-scpi-server/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/11/hislip-scpi-server-91224322953398_+2cf42ec121.png</picture>
@@ -10762,7 +10772,7 @@
       </offer>
       <offer id="122-049" available="true">
         <url>https://airunit.com.ua/statystyka-potuzhnosti-i-q/</url>
-        <price>33054.75</price>
+        <price>32899.12</price>
         <currencyId>UAH</currencyId>
         <categoryId>859797339</categoryId>
         <picture>https://airunit.com.ua/content/images/12/statystyka-potuzhnosti-i-q-94802421006300_+e801b6b610.png</picture>
