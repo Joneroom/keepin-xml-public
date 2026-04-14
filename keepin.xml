@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-14 07:14">
+<yml_catalog date="2026-04-14 12:55">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -1961,7 +1961,7 @@
       </offer>
       <offer id="202/006" available="true">
         <url>https://airunit.com.ua/aaronia-antenna-omnilog-pro-10100/</url>
-        <price>49457.31</price>
+        <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>761316187</categoryId>
         <picture>https://airunit.com.ua/content/images/17/96989700187405_+edd0167c58.png</picture>
