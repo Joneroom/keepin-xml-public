@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-20 12:59">
+<yml_catalog date="2026-04-20 18:47">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -4958,7 +4958,7 @@
       </offer>
       <offer id="102/080" available="true">
         <url>https://airunit.com.ua/analizator-spektru-plus-xpr-250xb-wr08/</url>
-        <price>0</price>
+        <price>5777375.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/11/analizator-spektru-plus-xpr-250xb-wr08-47585456828278_+d0998532eb.png</picture>
@@ -4967,7 +4967,7 @@
       </offer>
       <offer id="102/079" available="true">
         <url>https://airunit.com.ua/analizator-spektru-plus-xpr-250xb-wr10/</url>
-        <price>0</price>
+        <price>4332995.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/20/analizator-spektru-plus-xpr-250xb-wr10-25482897335438_+2ff9fcdec1.png</picture>
@@ -4976,7 +4976,7 @@
       </offer>
       <offer id="102/078" available="true">
         <url>https://airunit.com.ua/analizator-spektru-plus-xpr-250xb-wr12/</url>
-        <price>0</price>
+        <price>3610805.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/21/analizator-spektru-plus-xpr-250xb-wr12-43538140747828_+a3df8469cd.png</picture>
@@ -4985,7 +4985,7 @@
       </offer>
       <offer id="102/077" available="true">
         <url>https://airunit.com.ua/analizator-spektru-plus-xpr-250xb-wr15/</url>
-        <price>0</price>
+        <price>2888615.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/22/52060865849611_+a9e7828433.png</picture>
@@ -5120,7 +5120,7 @@
       </offer>
       <offer id="506/004" available="true">
         <url>https://airunit.com.ua/rf-over-fiber-1060/</url>
-        <price>0</price>
+        <price>722045.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>2059056337</categoryId>
         <picture>https://airunit.com.ua/content/images/40/rf-over-fiber-1060-26441589741664_+c940664021.png</picture>
@@ -5129,7 +5129,7 @@
       </offer>
       <offer id="506/001" available="true">
         <url>https://airunit.com.ua/rf-over-fiber-1040/</url>
-        <price>0</price>
+        <price>649826.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>2059056337</categoryId>
         <picture>https://airunit.com.ua/content/images/41/rf-over-fiber-1040-51488225603795_+6a0750ffc7.png</picture>
