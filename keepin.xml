@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-22 07:16">
+<yml_catalog date="2026-04-22 12:55">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -2123,7 +2123,7 @@
       </offer>
       <offer id="206/005" available="true">
         <url>https://airunit.com.ua/aaronia-magnetic-antenna-mdf-500khz-60mhz/</url>
-        <price>0</price>
+        <price>28743.16</price>
         <currencyId>UAH</currencyId>
         <categoryId>1285047130</categoryId>
         <picture>https://airunit.com.ua/content/images/38/79872314694910_+0fdbc48319.png</picture>
@@ -2132,7 +2132,7 @@
       </offer>
       <offer id="206/006" available="true">
         <url>https://airunit.com.ua/aaronia-magnetic-antenna-mdf-9khz-400mhz/</url>
-        <price>0</price>
+        <price>46797.91</price>
         <currencyId>UAH</currencyId>
         <categoryId>1285047130</categoryId>
         <picture>https://airunit.com.ua/content/images/39/44639055421678_+f677fee70b.png</picture>
@@ -3896,7 +3896,7 @@
       </offer>
       <offer id="503/042" available="true">
         <url>https://airunit.com.ua/spliter-sp4-dc80x-splitter/</url>
-        <price>0</price>
+        <price>108184.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>571637796</categoryId>
         <picture>https://airunit.com.ua/content/images/35/analizator-spektru-spectran-sp4-dc80x-splitter-60208787982274_+d30bf47ca1.png</picture>
@@ -5030,7 +5030,7 @@
       </offer>
       <offer id="503/032" available="true">
         <url>https://airunit.com.ua/spliter-sp4-7060x-splitter/</url>
-        <price>64605.53</price>
+        <price>72074.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>571637796</categoryId>
         <picture>https://airunit.com.ua/content/images/27/15159437610338_+140256e819.png</picture>
@@ -5039,7 +5039,7 @@
       </offer>
       <offer id="503/0041" available="true">
         <url>https://airunit.com.ua/spliter-sp4-4080x-splitter/</url>
-        <price>0</price>
+        <price>93740.26</price>
         <currencyId>UAH</currencyId>
         <categoryId>571637796</categoryId>
         <picture>https://airunit.com.ua/content/images/28/copy_analizator-spektru-sp4-7060x-splitter-52400142863526_+c97970a91f.png</picture>
@@ -5048,7 +5048,7 @@
       </offer>
       <offer id="503/045" available="true">
         <url>https://airunit.com.ua/spliter-sp6-dc80x-splitter/</url>
-        <price>0</price>
+        <price>144293.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>1276961032</categoryId>
         <picture>https://airunit.com.ua/content/images/32/analizator-spektru-sp6-dc80x-splitter-58597244647944_+084daf9b12.png</picture>
@@ -5057,7 +5057,7 @@
       </offer>
       <offer id="503/043" available="true">
         <url>https://airunit.com.ua/spliter-sp6-7060x-splitter/</url>
-        <price>0</price>
+        <price>108184.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>1276961032</categoryId>
         <picture>https://airunit.com.ua/content/images/33/analizator-spektru-sp6-7060x-splitter-45360255175616_+8493c8ba46.png</picture>
@@ -5066,7 +5066,7 @@
       </offer>
       <offer id="503/044" available="true">
         <url>https://airunit.com.ua/spliter-sp6-4080x-splitter/</url>
-        <price>0</price>
+        <price>129849.76</price>
         <currencyId>UAH</currencyId>
         <categoryId>1276961032</categoryId>
         <picture>https://airunit.com.ua/content/images/34/33899446161445_+260da301ff.png</picture>
@@ -5075,7 +5075,7 @@
       </offer>
       <offer id="503/059" available="true">
         <url>https://airunit.com.ua/spliter-sp6a-dc80x-splitter/</url>
-        <price>0</price>
+        <price>202068.76</price>
         <currencyId>UAH</currencyId>
         <categoryId>1276961032</categoryId>
         <picture>https://airunit.com.ua/content/images/35/analizator-spektru-sp6a-dc80x-splitter-91065436937973_+13159d8436.png</picture>
@@ -5084,7 +5084,7 @@
       </offer>
       <offer id="503/058" available="true">
         <url>https://airunit.com.ua/spliter-sp4a-7060x-splitter/</url>
-        <price>0</price>
+        <price>108184.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>571637796</categoryId>
         <picture>https://airunit.com.ua/content/images/36/analizator-spektru-sp4a-7060x-splitter-72742066955398_+fdf8f9e31b.png</picture>
@@ -5093,7 +5093,7 @@
       </offer>
       <offer id="503/054" available="true">
         <url>https://airunit.com.ua/kombainer-sp6-dc80-splitter-combiner-oem/</url>
-        <price>0</price>
+        <price>108184.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>1276961032</categoryId>
         <picture>https://airunit.com.ua/content/images/37/analizator-spektru-sp6-dc80-splitter-combiner-oem-83764468539183_+a27e7acd52.png</picture>
@@ -7498,7 +7498,7 @@
       </offer>
       <offer id="104/015" available="true">
         <url>https://airunit.com.ua/echtzeit-emv-paket-1/</url>
-        <price>0</price>
+        <price>469279.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>814643595</categoryId>
         <picture>https://airunit.com.ua/content/images/27/echtzeit-emv-paket-1-48688560556230_+0a5dbfddf9.png</picture>
@@ -7507,7 +7507,7 @@
       </offer>
       <offer id="104/016-1" available="true">
         <url>https://airunit.com.ua/echtzeit-emv-paket-2/</url>
-        <price>0</price>
+        <price>577607.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>814643595</categoryId>
         <picture>https://airunit.com.ua/content/images/28/echtzeit-emv-paket-2-27408173230882_+9ca9946040.png</picture>
@@ -7516,7 +7516,7 @@
       </offer>
       <offer id="104/017" available="true">
         <url>https://airunit.com.ua/echtzeit-emv-paket-3/</url>
-        <price>0</price>
+        <price>649826.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>814643595</categoryId>
         <picture>https://airunit.com.ua/content/images/29/echtzeit-emv-paket-3-76550648459337_+5aae0e768c.png</picture>
