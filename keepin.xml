@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-04-22 12:55">
+<yml_catalog date="2026-04-22 18:54">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -5138,7 +5138,7 @@
       </offer>
       <offer id="506/002" available="true">
         <url>https://airunit.com.ua/rf-over-fiber-10100/</url>
-        <price>0</price>
+        <price>1010921.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>2059056337</categoryId>
         <picture>https://airunit.com.ua/content/images/42/94740110582656_+a80afec32c.png</picture>
@@ -5146,8 +5146,8 @@
         <name>Конвертор РЧ через оптоволокно 10100</name>
       </offer>
       <offer id="506/003" available="true">
-        <url>https://airunit.com.ua/copy_rf-over-fiber-10100/</url>
-        <price>0</price>
+        <url>https://airunit.com.ua/rf-over-fiber-10160/</url>
+        <price>1299797.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>2059056337</categoryId>
         <picture>https://airunit.com.ua/content/images/43/copy_rf-over-fiber-10100-83211923277938_+62593928c2.png</picture>
@@ -5183,7 +5183,7 @@
       </offer>
       <offer id="104/008" available="true">
         <url>https://airunit.com.ua/komplekty-dlia-obstezhennia-1/</url>
-        <price>0</price>
+        <price>360950.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>50032091</categoryId>
         <picture>https://airunit.com.ua/content/images/47/komplekty-dlia-obstezhennia-1-74678730646278_+def6684224.png</picture>
@@ -5192,7 +5192,7 @@
       </offer>
       <offer id="104/009" available="true">
         <url>https://airunit.com.ua/komplekty-dlia-obstezhennia-2/</url>
-        <price>0</price>
+        <price>397060.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>50032091</categoryId>
         <picture>https://airunit.com.ua/content/images/48/komplekty-dlia-obstezhennia-2-95674137373401_+6754fa268f.png</picture>
@@ -5201,7 +5201,7 @@
       </offer>
       <offer id="104/010" available="true">
         <url>https://airunit.com.ua/komplekty-dlia-obstezhennia-3/</url>
-        <price>0</price>
+        <price>454835.26</price>
         <currencyId>UAH</currencyId>
         <categoryId>50032091</categoryId>
         <picture>https://airunit.com.ua/content/images/49/komplekty-dlia-obstezhennia-3-29901865678158_+e67961c3b2.png</picture>
@@ -6859,7 +6859,7 @@
       </offer>
       <offer id="102/071" available="true">
         <url>https://airunit.com.ua/spectran-v6-mobile-100ta-6/</url>
-        <price>0</price>
+        <price>613717.06</price>
         <currencyId>UAH</currencyId>
         <categoryId>624458557</categoryId>
         <picture>https://airunit.com.ua/content/images/36/spectran-v6-mobile-100ta-6-29028793376173_+5ad89a4650.png</picture>
@@ -6911,13 +6911,13 @@
         <vendorCode>C1-B-10K</vendorCode>
         <name>Антенний кабель 4Hawks RP-SMA, 10м</name>
       </offer>
-      <offer id="102/009" available="true">
-        <url>https://airunit.com.ua/analizator-spektru-rodb-500ra-6/2043/</url>
+      <offer id="102/0090-old" available="true">
+        <url>https://airunit.com.ua/analizator-spektru-rodb-500ra-6/1/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>1024367634</categoryId>
         <picture>https://airunit.com.ua/content/images/44/analizator-spektru-rodb-500ra-62043-42647040939761_+9825591843.png</picture>
-        <vendorCode>102/009</vendorCode>
+        <vendorCode>102/0090-old</vendorCode>
         <name>Аналізатор спектру RODB 500RA-6</name>
       </offer>
       <offer id="102/008" available="true">
@@ -6931,7 +6931,7 @@
       </offer>
       <offer id="102/063" available="true">
         <url>https://airunit.com.ua/analizator-spektru-v6-eco-xpr-100xa-wr08/</url>
-        <price>0</price>
+        <price>5055185.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/46/analizator-spektru-v6-eco-xpr-100xa-wr08-18416829522204_+f8ce38835c.png</picture>
@@ -6940,7 +6940,7 @@
       </offer>
       <offer id="102/061" available="true">
         <url>https://airunit.com.ua/analizator-spektru-v6-eco-xpr-100xa-wr10/</url>
-        <price>0</price>
+        <price>3610805.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/47/analizator-spektru-v6-eco-xpr-100xa-wr10-61205473880756_+721fee5c6c.png</picture>
@@ -6949,7 +6949,7 @@
       </offer>
       <offer id="102/059" available="true">
         <url>https://airunit.com.ua/analizator-spektru-v6-eco-xpr-100xa-wr12/</url>
-        <price>0</price>
+        <price>2888615.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/48/analizator-spektru-v6-eco-xpr-100xa-wr12-90435777917631_+21cc3134a2.png</picture>
@@ -6958,7 +6958,7 @@
       </offer>
       <offer id="102/057" available="true">
         <url>https://airunit.com.ua/analizator-spektru-v6-eco-xpr-100xa-wr15/</url>
-        <price>0</price>
+        <price>2166425.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/49/47677933603580_+f223b4b9d4.png</picture>
@@ -7417,7 +7417,7 @@
       </offer>
       <offer id="Aaronia Laptop A1" available="true">
         <url>https://airunit.com.ua/noutbuk-a1/</url>
-        <price>0</price>
+        <price>722045.56</price>
         <currencyId>UAH</currencyId>
         <categoryId>283270898</categoryId>
         <picture>https://airunit.com.ua/content/images/31/noutbuk-a1-33400213102491_+d7822577a3.png</picture>
@@ -7444,7 +7444,7 @@
       </offer>
       <offer id="902/002" available="true">
         <url>https://airunit.com.ua/aaronia-mini-pc-thundercube-a1/</url>
-        <price>0</price>
+        <price>202068.76</price>
         <currencyId>UAH</currencyId>
         <categoryId>442652716</categoryId>
         <picture>https://airunit.com.ua/content/images/34/aaronia-mini-pc-thundercube-a1-77927177962672_+0adb99e3e3.png</picture>
@@ -7460,13 +7460,13 @@
         <vendorCode>901/002</vendorCode>
         <name>Материнська плата Aaronia PC Mainboard A1</name>
       </offer>
-      <offer id="SPECTRAN V4-C Handheld" available="true">
-        <url>https://airunit.com.ua/portatyvnyi-analizator-spektra-spectran-v4-c-handheld/</url>
+      <offer id="104/012" available="true">
+        <url>https://airunit.com.ua/spectran-v4-c-handheld/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>1502013214</categoryId>
         <picture>https://airunit.com.ua/content/images/36/portatyvnyi-analizator-spektra-spectran-v4-c-handheld-28997875072404_+25883babef.png</picture>
-        <vendorCode>SPECTRAN V4-C Handheld</vendorCode>
+        <vendorCode>104/012</vendorCode>
         <name>Портативний аналізатор спектра SPECTRAN V4-C Handheld</name>
       </offer>
       <offer id="A150X" available="true">
@@ -7531,6 +7531,24 @@
         <picture>https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-70556947694642_+c470e733c2.png</picture>
         <vendorCode>104/013</vendorCode>
         <name>Spectran V4 DF Handheld</name>
+      </offer>
+      <offer id="102/074" available="true">
+        <url>https://airunit.com.ua/spectran-v6-mobile-2000ta-6/</url>
+        <price>1263688.06</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>624458557</categoryId>
+        <picture>https://airunit.com.ua/content/images/31/54676837495433_+70a6648c8f.png</picture>
+        <vendorCode>102/074</vendorCode>
+        <name>Планшет SPECTRAN® V6 TABLET 2000TA-6</name>
+      </offer>
+      <offer id="102/009" available="true">
+        <url>https://airunit.com.ua/analizator-spektru-rodb-250ra-6/</url>
+        <price>722045.56</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1024367634</categoryId>
+        <picture>https://airunit.com.ua/content/images/32/11969168319448_+b587e544ae.png</picture>
+        <vendorCode>102/009</vendorCode>
+        <name>Аналізатор спектру RODB 250RA-6</name>
       </offer>
       <offer id="EF-RG-SOLAR-100" available="true">
         <url>https://airunit.com.ua/100w-rigid-solar-panel/</url>
