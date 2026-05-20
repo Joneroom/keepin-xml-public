@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-20 08:49">
+<yml_catalog date="2026-05-20 14:27">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -89,6 +89,7 @@
       <category id="467961811" parentId="661079199">Захист від магнітних полів</category>
       <category id="142297676" parentId="661079199">Захист від радіочастотних та електричних полів</category>
       <category id="1502013214" parentId="610689099">Аналізатори спектру</category>
+      <category id="1090942515" parentId="610689099">Генератори сигналів</category>
       <category id="910866768" parentId="610689099">Додаткові компоненти</category>
       <category id="1850188937" parentId="610689099">Комплекти</category>
       <category id="93056520" parentId="610689099">Конструктор товари</category>
@@ -7549,6 +7550,15 @@
         <picture>https://airunit.com.ua/content/images/32/11969168319448_+b587e544ae.png</picture>
         <vendorCode>102/009</vendorCode>
         <name>Аналізатор спектру RODB 250RA-6</name>
+      </offer>
+      <offer id="401/01" available="true">
+        <url>https://airunit.com.ua/spark/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1090942515</categoryId>
+        <picture>https://airunit.com.ua/content/images/34/spark-46967102252684_+6a6d089594.png</picture>
+        <vendorCode>401/01</vendorCode>
+        <name>SPARK</name>
       </offer>
       <offer id="EF-RG-SOLAR-100" available="true">
         <url>https://airunit.com.ua/100w-rigid-solar-panel/</url>
