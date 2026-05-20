@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-20 01:57">
+<yml_catalog date="2026-05-20 08:49">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -9,7 +9,7 @@
     </currencies>
     <categories>
       <category id="81092716">AARONIA AG</category>
-      <category id="2731654">Аграрні дрони DJI | XAG</category>
+      <category id="2036146332">Аграрні дрони DJI</category>
       <category id="1305329856">БПЛА</category>
       <category id="1146781877">Дрони AUTEL</category>
       <category id="1767489446">Дрони DJI</category>
@@ -24,8 +24,8 @@
       <category id="1700883007" parentId="81092716">Антени</category>
       <category id="661079199" parentId="81092716">Екрануючі матеріали</category>
       <category id="610689099" parentId="81092716">Контрольно-вимірювальні прилади</category>
-      <category id="423272085" parentId="2731654">DJI</category>
-      <category id="139079757" parentId="2731654">XAG</category>
+      <category id="1107814830" parentId="2036146332">DJI</category>
+      <category id="1400326006" parentId="2036146332">XAG</category>
       <category id="700172595" parentId="1305329856">Аксесуари</category>
       <category id="77572006" parentId="1305329856">Мультикоптери</category>
       <category id="1189179504" parentId="1146781877">Аксесуари Autel Robotics</category>
@@ -93,16 +93,16 @@
       <category id="1850188937" parentId="610689099">Комплекти</category>
       <category id="93056520" parentId="610689099">Конструктор товари</category>
       <category id="859797339" parentId="610689099">Програмне забезпечення</category>
-      <category id="548101066" parentId="423272085">Agras T10</category>
-      <category id="1077838037" parentId="423272085">Agras T20P</category>
-      <category id="312293704" parentId="423272085">Agras T30</category>
-      <category id="1574743951" parentId="423272085">Agras T40</category>
-      <category id="1621918514" parentId="423272085">Аксесуари Agras</category>
-      <category id="1997811669" parentId="139079757">P100</category>
-      <category id="1627572050" parentId="139079757">P40</category>
-      <category id="1703918560" parentId="139079757">V40</category>
-      <category id="698977906" parentId="139079757">XP 2020</category>
-      <category id="751212727" parentId="139079757">Аксесуари XAG</category>
+      <category id="459307000" parentId="1107814830">Agras T10</category>
+      <category id="147987065" parentId="1107814830">Agras T20P</category>
+      <category id="693507450" parentId="1107814830">Agras T30</category>
+      <category id="1712817085" parentId="1107814830">Agras T40</category>
+      <category id="2089411474" parentId="1107814830">Аксесуари Agras</category>
+      <category id="586271803" parentId="1400326006">P100</category>
+      <category id="29820645" parentId="1400326006">P40</category>
+      <category id="88767063" parentId="1400326006">V40</category>
+      <category id="803652949" parentId="1400326006">XP 2020</category>
+      <category id="1145275473" parentId="1400326006">Аксесуари XAG</category>
       <category id="939963923" parentId="1189179504">EVO II</category>
       <category id="2066539045" parentId="1189179504">EVO Lite</category>
       <category id="1376671645" parentId="1189179504">EVO Max</category>
@@ -2170,7 +2170,7 @@
         <url>https://airunit.com.ua/xag-products/plant-protection-uas/p100/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1997811669</categoryId>
+        <categoryId>586271803</categoryId>
         <picture>https://airunit.com.ua/content/images/43/xag-productsplant-protection-uasp100-95468712360394_+dcd183f579.png</picture>
         <vendorCode>xag-p100</vendorCode>
         <name>Сільськогосподарський дрон XAG P100</name>
@@ -2179,7 +2179,7 @@
         <url>https://airunit.com.ua/xag-products/plant-protection-uas/v40/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1703918560</categoryId>
+        <categoryId>88767063</categoryId>
         <picture>https://airunit.com.ua/content/images/44/xag-productsplant-protection-uasv40-40141961768922_+1e27bc6827.png</picture>
         <vendorCode>xag-v40</vendorCode>
         <name>Сільськогосподарський дрон XAG V40</name>
@@ -2188,7 +2188,7 @@
         <url>https://airunit.com.ua/xag-products/plant-protection-uas/p40/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1627572050</categoryId>
+        <categoryId>29820645</categoryId>
         <picture>https://airunit.com.ua/content/images/45/xag-productsplant-protection-uasp40-80596639512768_+12ac0660cd.png</picture>
         <vendorCode>xag-p40</vendorCode>
         <name>Сільськогосподарський дрон XAG P40</name>
@@ -2197,7 +2197,7 @@
         <url>https://airunit.com.ua/ahrarnyi-dron-xag-xp-2020/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>698977906</categoryId>
+        <categoryId>803652949</categoryId>
         <picture>https://airunit.com.ua/content/images/46/35939641672042_+8f319446a0.png</picture>
         <vendorCode>xag-xp-2020</vendorCode>
         <name>Аграрний дрон XAG XP 2020</name>
@@ -2206,7 +2206,7 @@
         <url>https://airunit.com.ua/xag-products/options/tripod/</url>
         <price>4000</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/50/xag-productsoptionstripod-13728504430309_+e48db0556f.png</picture>
         <vendorCode>xag-acc-03</vendorCode>
         <name>Тринога для станції RTK</name>
@@ -2233,7 +2233,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/agaras-t20p/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1077838037</categoryId>
+        <categoryId>147987065</categoryId>
         <picture>https://airunit.com.ua/content/images/4/dji-agrascrop-protectionagaras-t20p-62681607201967_+e722b52961.png</picture>
         <vendorCode>DJI-AGRAS-T20P</vendorCode>
         <name>Agras T20P</name>
@@ -2242,7 +2242,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/agaras-t40/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1574743951</categoryId>
+        <categoryId>1712817085</categoryId>
         <picture>https://airunit.com.ua/content/images/5/70443497758079_+f96892888e.png</picture>
         <vendorCode>DJI-AGRAS-T40</vendorCode>
         <name>Agras T40</name>
@@ -2251,7 +2251,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/agaras-t30/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>312293704</categoryId>
+        <categoryId>693507450</categoryId>
         <picture>https://airunit.com.ua/content/images/6/dji-agrascrop-protectionagaras-t30-84941303238082_+54b435345b.jpg</picture>
         <vendorCode>DJI-AGRAS-T30</vendorCode>
         <name>Agras T30</name>
@@ -2260,7 +2260,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/agaras-t10/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>548101066</categoryId>
+        <categoryId>459307000</categoryId>
         <picture>https://airunit.com.ua/content/images/7/dji-agrascrop-protectionagaras-t10-79556975619822_+603498f203.jpg</picture>
         <vendorCode>DJI-AGRAS-T10</vendorCode>
         <name>Agras T10</name>
@@ -2269,7 +2269,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/accessories/bax501/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1621918514</categoryId>
+        <categoryId>2089411474</categoryId>
         <picture>https://airunit.com.ua/content/images/8/dji-agrascrop-protectionaccessoriesbax501-74422902266409_+d7004e615d.png</picture>
         <vendorCode>DJI-AGRAS-ACC-01</vendorCode>
         <name>Інтелектуальна батарея для DJI Agras T30</name>
@@ -2278,7 +2278,7 @@
         <url>https://airunit.com.ua/https/airunit.com.ua/dji-agras/crop-protection/accessories/smrtcharger/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1621918514</categoryId>
+        <categoryId>2089411474</categoryId>
         <picture>https://airunit.com.ua/content/images/9/httpsairunit.com.uadji-agrascrop-protectionaccessoriesbax501-65377418650674_+ff1f48102e.png</picture>
         <vendorCode>DJI-AGRAS-ACC-02</vendorCode>
         <name>Зарядний пристрій для DJI Agras T30</name>
@@ -2287,7 +2287,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/accessories/spread30/</url>
         <price>79560</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1621918514</categoryId>
+        <categoryId>2089411474</categoryId>
         <picture>https://airunit.com.ua/content/images/10/dji-agrascrop-protectionaccessoriesspread30-56994484506484_+32e3aaff22.png</picture>
         <vendorCode>DJI-AGRAS-ACC-03</vendorCode>
         <name>Система розкидання 3.0 для DJI Agras T30</name>
@@ -2296,7 +2296,7 @@
         <url>https://airunit.com.ua/dji-agras/crop-protection/accessories/gen-d9000i/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
-        <categoryId>1621918514</categoryId>
+        <categoryId>2089411474</categoryId>
         <picture>https://airunit.com.ua/content/images/11/dji-agrascrop-protectionaccessoriesgen-d9000i-34949098001020_+57ae34a11a.png</picture>
         <vendorCode>DJI-AGRAS-ACC-04</vendorCode>
         <name>Інверторний генератор DJI D9000i</name>
@@ -3970,7 +3970,7 @@
         <url>https://airunit.com.ua/modul-zviazku-br-local-network-terminal-lnt/</url>
         <price>80099</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/44/82868325512285_+cd7a8ec41b.png</picture>
         <vendorCode>09-014-00035</vendorCode>
         <name>Модуль зв'язку &lt;br&gt; Local network terminal (LNT)</name>
@@ -3979,7 +3979,7 @@
         <url>https://airunit.com.ua/kontroler-xag-acs2-z-rtk-modulem/</url>
         <price>30599</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/45/kontroler-xag-acs2-z-rtk-modulem-80786481859665_+caa37096e7.png</picture>
         <vendorCode>09-016-00029</vendorCode>
         <name>Контролер ACS2 &lt;br&gt; з RTK модулем</name>
@@ -3988,7 +3988,7 @@
         <url>https://airunit.com.ua/gnss-rtk-fix-station-rtk-module/</url>
         <price>50399</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/46/gnss-rtk-fix-station-rtk-module-46734291592062_+4dfef09cfb.png</picture>
         <vendorCode>09-010-00019</vendorCode>
         <name>GNSS RTK Fix Station &lt;br&gt; (RTK Module)</name>
@@ -3997,7 +3997,7 @@
         <url>https://airunit.com.ua/forsunky-atomaizery-2020-xp-nozzle/</url>
         <price>1700</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/47/forsunky-atomaizery-2020-xp-nozzle-14057063506979_+07fd89f1f7.png</picture>
         <vendorCode>05-002-00705</vendorCode>
         <name>Форсунки-атомайзери 2020 XP Nozzle</name>
@@ -4006,7 +4006,7 @@
         <url>https://airunit.com.ua/plastykovyi-boks-dlia-okholodzhennia-batarei-2022-br-charging-water-tank-p100-p40-v40/</url>
         <price>6395</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/48/plastykovyi-boks-dlia-okholodzhennia-batarei-2022-br-charging-water-tank-p100-p40-v40-16945302912755_+9a02fd5ef4.png</picture>
         <vendorCode>09-017-00028</vendorCode>
         <name>Бокс для охолодження батарей (P100, P40, V40)</name>
@@ -4015,7 +4015,7 @@
         <url>https://airunit.com.ua/boks-dlia-okholodzhennia-batarei-2021/</url>
         <price>5116</price>
         <currencyId>UAH</currencyId>
-        <categoryId>751212727</categoryId>
+        <categoryId>1145275473</categoryId>
         <picture>https://airunit.com.ua/content/images/49/copy_plastykovyi-boks-dlia-okholodzhennia-batarei-2022-br-charging-water-tank-p100-p40-v40-40409093351169_+76796052b8.png</picture>
         <vendorCode>05-002-00946</vendorCode>
         <name>Бокс для охолодження батарей 2021</name>
