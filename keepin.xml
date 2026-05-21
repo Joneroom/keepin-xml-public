@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-21 01:57">
+<yml_catalog date="2026-05-21 08:51">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -1861,13 +1861,13 @@
         <vendorCode>204/011</vendorCode>
         <name>BicoLOG 30100E X</name>
       </offer>
-      <offer id="AARONIA-BICOLOG-20100X" available="true">
+      <offer id="204/009" available="true">
         <url>https://airunit.com.ua/aaronia-p-antenna-bicolog-20100x/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>1058769121</categoryId>
         <picture>https://airunit.com.ua/content/images/6/60257769428916_+67b07be2e3.png</picture>
-        <vendorCode>AARONIA-BICOLOG-20100X</vendorCode>
+        <vendorCode>204/009</vendorCode>
         <name>BicoLOG 20100X</name>
       </offer>
       <offer id="204/012" available="true">
@@ -2140,13 +2140,13 @@
         <vendorCode>206/006</vendorCode>
         <name>Магнітна антена MDF 9400</name>
       </offer>
-      <offer id="206/007" available="true">
+      <offer id="206/011" available="true">
         <url>https://airunit.com.ua/aaronia-active-magnetic-antenna-mdf-9khz-30mhz/</url>
         <price>0</price>
         <currencyId>UAH</currencyId>
         <categoryId>818606638</categoryId>
         <picture>https://airunit.com.ua/content/images/40/73321281337457_+c11a4630cf.png</picture>
-        <vendorCode>206/007</vendorCode>
+        <vendorCode>206/011</vendorCode>
         <name>Магнітна антена MDF 930X</name>
       </offer>
       <offer id="206/008" available="true">
