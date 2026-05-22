@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-22 08:44">
+<yml_catalog date="2026-05-22 14:09">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -4984,13 +4984,13 @@
         <vendorCode>102/078</vendorCode>
         <name>Аналізатор спектру PLUS XPR 250XB-WR12</name>
       </offer>
-      <offer id="102/077" available="true">
+      <offer id="102/xxx" available="true">
         <url>https://airunit.com.ua/analizator-spektru-plus-xpr-250xb-wr15/</url>
         <price>2843397.82</price>
         <currencyId>UAH</currencyId>
         <categoryId>689326970</categoryId>
         <picture>https://airunit.com.ua/content/images/22/52060865849611_+a9e7828433.png</picture>
-        <vendorCode>102/077</vendorCode>
+        <vendorCode>102/xxx</vendorCode>
         <name>Аналізатор спектру PLUS XPR 250XB-WR15</name>
       </offer>
       <offer id="102/063-eco-xpr-100xa-wr08" available="true">
@@ -7559,6 +7559,24 @@
         <picture>https://airunit.com.ua/content/images/34/spark-46967102252684_+6a6d089594.png</picture>
         <vendorCode>401/01</vendorCode>
         <name>SPARK</name>
+      </offer>
+      <offer id="vsg-50a-18" available="true">
+        <url>https://airunit.com.ua/henerator-syhnaliv-v6-eco-vsg-50a-18/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1090942515</categoryId>
+        <picture>https://airunit.com.ua/content/images/35/henerator-syhnaliv-v6-eco-vsg-50a-18-48983390095943_+24fc46e361.png</picture>
+        <vendorCode>vsg-50a-18</vendorCode>
+        <name>Генератор сигналів V6 ECO VSG-50A-18</name>
+      </offer>
+      <offer id="503/072" available="true">
+        <url>https://airunit.com.ua/octoplexer/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>910866768</categoryId>
+        <picture>https://airunit.com.ua/content/images/39/octoplexer-87749132407722_+409f8d4ac7.png</picture>
+        <vendorCode>503/072</vendorCode>
+        <name>Octoplexer</name>
       </offer>
       <offer id="EF-RG-SOLAR-100" available="true">
         <url>https://airunit.com.ua/100w-rigid-solar-panel/</url>
@@ -10923,6 +10941,51 @@
         <picture>https://airunit.com.ua/content/images/26/245mhz-tx-32009938675975_+92ae7e756c.png</picture>
         <vendorCode>112-009</vendorCode>
         <name>245 MHz Tx Expansion</name>
+      </offer>
+      <offer id="112-008" available="true">
+        <url>https://airunit.com.ua/120-mhz-vector-signal-generator-tx/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/36/120-mhz-vector-signal-generator-tx-51269604190029_+c529fe9507.png</picture>
+        <vendorCode>112-008</vendorCode>
+        <name>120 MHz Vector Signal Generator TX</name>
+      </offer>
+      <offer id="112-004" available="true">
+        <url>https://airunit.com.ua/extended-temperatur-range/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/37/extended-temperatur-range-15882290582720_+03b513fc64.png</picture>
+        <vendorCode>112-004</vendorCode>
+        <name>Extended Temperatur Range</name>
+      </offer>
+      <offer id="112-011" available="true">
+        <url>https://airunit.com.ua/peak-detektor/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/38/peak-detektor-83300013491677_+504b81cb76.png</picture>
+        <vendorCode>112-011</vendorCode>
+        <name>Peak Detektor</name>
+      </offer>
+      <offer id="112-022" available="true">
+        <url>https://airunit.com.ua/rozshyrennia-wifi-6e/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/40/rozshyrennia-wifi-6e-94253758715472_+8cf9346fb5.png</picture>
+        <vendorCode>112-022</vendorCode>
+        <name>Розширення WiFi 6E</name>
+      </offer>
+      <offer id="112-025" available="true">
+        <url>https://airunit.com.ua/3-thz-s-sweep/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/41/3-thz-s-sweep-52325666505120_+f022ad0134.png</picture>
+        <vendorCode>112-025</vendorCode>
+        <name>3 THz/s Sweep</name>
       </offer>
     </offers>
   </shop>
