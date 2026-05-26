@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-26 09:30">
+<yml_catalog date="2026-05-26 14:31">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -11040,6 +11040,105 @@
         <picture>https://airunit.com.ua/content/images/47/vita49-server-11236131591616_+7f3e9c1366.png</picture>
         <vendorCode>122-057</vendorCode>
         <name>VITA49 Server</name>
+      </offer>
+      <offer id="122-058" available="true">
+        <url>https://airunit.com.ua/vita49-client/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/48/vita49-client-25295113839419_+cfd95dffd6.png</picture>
+        <vendorCode>122-058</vendorCode>
+        <name>VITA49 Client</name>
+      </offer>
+      <offer id="122-010" available="true">
+        <url>https://airunit.com.ua/128k-fft/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/49/128k-fft-95484641357808_+796d98497e.png</picture>
+        <vendorCode>122-010</vendorCode>
+        <name>128k FFT</name>
+      </offer>
+      <offer id="122-011" available="true">
+        <url>https://airunit.com.ua/1m-fft/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/50/1m-fft-69734276633116_+92b42f6d0e.png</picture>
+        <vendorCode>122-011</vendorCode>
+        <name>1M FFT</name>
+      </offer>
+      <offer id="122/026" available="true">
+        <url>https://airunit.com.ua/histogram-2k/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/1/histogram-2k-72844974811870_+cd70b47b62.png</picture>
+        <vendorCode>122/026</vendorCode>
+        <name>Histogram 2k</name>
+      </offer>
+      <offer id="122/027" available="true">
+        <url>https://airunit.com.ua/iq-raster-image/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/2/iq-raster-image-23762338993410_+c76927c865.png</picture>
+        <vendorCode>122/027</vendorCode>
+        <name>IQ Raster Image</name>
+      </offer>
+      <offer id="122-009" available="true">
+        <url>https://airunit.com.ua/iq-signal-generator-qam64/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/3/iq-signal-generator-qam64-91205878717466_+53ea85355c.png</picture>
+        <vendorCode>122-009</vendorCode>
+        <name>IQ Signal Generator QAM64</name>
+      </offer>
+      <offer id="122-020" available="true">
+        <url>https://airunit.com.ua/direction-finder-bundle/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/4/direction-finder-bundle-13031269511410_+c51f482cd0.png</picture>
+        <vendorCode>122-020</vendorCode>
+        <name>Direction Finder Bundle</name>
+      </offer>
+      <offer id="122-053" available="true">
+        <url>https://airunit.com.ua/iq-bt-interaction-mapper/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/5/iq-bt-interaction-mapper-28871063086114_+b0685b826a.png</picture>
+        <vendorCode>122-053</vendorCode>
+        <name>IQ BT Interaction Mapper</name>
+      </offer>
+      <offer id="122-021" available="true">
+        <url>https://airunit.com.ua/live-cam-bundle/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/6/live-cam-bundle-72718914979815_+e167c47bfe.png</picture>
+        <vendorCode>122-021</vendorCode>
+        <name>Live Cam Bundle</name>
+      </offer>
+      <offer id="122-015" available="true">
+        <url>https://airunit.com.ua/multi-stream-logger/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/7/multi-stream-logger-91115424958670_+6e392740a2.png</picture>
+        <vendorCode>122-015</vendorCode>
+        <name>Multi Stream Logger</name>
+      </offer>
+      <offer id="122-018" available="true">
+        <url>https://airunit.com.ua/remote-config/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/8/remote-config-85665233186953_+4e35b44bce.png</picture>
+        <vendorCode>122-018</vendorCode>
+        <name>Remote Config</name>
       </offer>
     </offers>
   </shop>
