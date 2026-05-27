@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-27 02:01">
+<yml_catalog date="2026-05-27 08:56">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -11139,6 +11139,69 @@
         <picture>https://airunit.com.ua/content/images/8/remote-config-85665233186953_+4e35b44bce.png</picture>
         <vendorCode>122-018</vendorCode>
         <name>Remote Config</name>
+      </offer>
+      <offer id="122-023" available="true">
+        <url>https://airunit.com.ua/streaming-bundle/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/9/streaming-bundle-32948741659419_+90509cfbec.png</picture>
+        <vendorCode>122-023</vendorCode>
+        <name>Streaming Bundle</name>
+      </offer>
+      <offer id="122-022" available="true">
+        <url>https://airunit.com.ua/waterfall-pulse-bundle/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/10/waterfall-pulse-bundle-61597204154345_+66395b273a.png</picture>
+        <vendorCode>122-022</vendorCode>
+        <name>Waterfall &amp; Pulse Bundle</name>
+      </offer>
+      <offer id="122-048" available="true">
+        <url>https://airunit.com.ua/offline-map-integration/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/11/offline-map-integration-68907371361824_+da65420d1c.png</picture>
+        <vendorCode>122-048</vendorCode>
+        <name>Offline Map Integration</name>
+      </offer>
+      <offer id="122-035" available="true">
+        <url>https://airunit.com.ua/rf-drive-test/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/12/rf-drive-test-49935877047521_+65504b317c.png</picture>
+        <vendorCode>122-035</vendorCode>
+        <name>RF Drive Test</name>
+      </offer>
+      <offer id="122-019" available="true">
+        <url>https://airunit.com.ua/category-channel-bundle/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/13/category-channel-bundle-71045388574174_+d7f4421630.png</picture>
+        <vendorCode>122-019</vendorCode>
+        <name>Category &amp; Channel Bundle</name>
+      </offer>
+      <offer id="122-042" available="true">
+        <url>https://airunit.com.ua/stream-portal/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/14/stream-portal-98472530360260_+0602a2d1da.png</picture>
+        <vendorCode>122-042</vendorCode>
+        <name>Stream Portal</name>
+      </offer>
+      <offer id="122-056" available="true">
+        <url>https://airunit.com.ua/wrapped-spectrum-32/</url>
+        <price>0</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>859797339</categoryId>
+        <picture>https://airunit.com.ua/content/images/15/wrapped-spectrum-32-13624471190163_+fe4d4c2da9.png</picture>
+        <vendorCode>122-056</vendorCode>
+        <name>Wrapped Spectrum 32</name>
       </offer>
     </offers>
   </shop>
