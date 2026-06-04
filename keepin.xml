@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-04 14:27">
+<yml_catalog date="2026-06-04 19:51">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -7049,7 +7049,7 @@
       </offer>
       <offer id="XK03K" available="true">
         <url>https://airunit.com.ua/proektor-dlia-domu-xgimi-horizon-xk03k/</url>
-        <price>54999</price>
+        <price>47999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1797840300</categoryId>
         <picture>https://airunit.com.ua/content/images/30/84140151926179_+12255fc2da.png</picture>
