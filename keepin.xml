@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-17 02:15">
+<yml_catalog date="2026-06-17 10:20">
   <shop>
     <name>AirUnit</name>
     <company>AirUnit</company>
@@ -7283,7 +7283,7 @@
       </offer>
       <offer id="B981C" available="true">
         <url>https://airunit.com.ua/pult-dystantsiinoho-keruvannia-dlia-proektoriv-xgimi-serii-horizon-aura-b981c/</url>
-        <price>1499</price>
+        <price>1299</price>
         <currencyId>UAH</currencyId>
         <categoryId>1999668743</categoryId>
         <picture>https://airunit.com.ua/content/images/14/pult-dystantsiinoho-keruvannia-dlia-proektoriv-xgimi-serii-horizon-aura-b981c-26159743304027_+4f655037f0.png</picture>
@@ -7346,7 +7346,7 @@
       </offer>
       <offer id="F070S" available="true">
         <url>https://airunit.com.ua/pidstavka-dlia-proektoriv-xgimi-floor-stand-dlia-horizon-s-series-f070s/</url>
-        <price>9999</price>
+        <price>8999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1999668743</categoryId>
         <picture>https://airunit.com.ua/content/images/22/pidstavka-dlia-proektoriv-xgimi-floor-stand-dlia-horizon-s-series-f070s-37518112277532_+fecfdeab9e.png</picture>
@@ -7355,7 +7355,7 @@
       </offer>
       <offer id="P165S" available="true">
         <url>https://airunit.com.ua/ekran-dlia-proektora-xgimi-100-diuimiv-ust-alr-screen-p165s/</url>
-        <price>79999</price>
+        <price>69999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1999668743</categoryId>
         <picture>https://airunit.com.ua/content/images/23/ekran-dlia-proektora-xgimi-100-diuimiv-ust-alr-screen-p165s-49574504721835_+8ff7ccee90.png</picture>
